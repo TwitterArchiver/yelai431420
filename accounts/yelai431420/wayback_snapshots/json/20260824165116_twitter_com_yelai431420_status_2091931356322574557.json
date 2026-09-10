@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091747977555795968"
+      ],
+      "media_source_tweet_id": [
+        "2091747983863972339"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "conversation_id": "2091931356322574557",
+    "created_at": "2026-08-24T16:51:16.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091931356322574557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qBLs5Cv0q9",
+          "end": 66,
+          "expanded_url": "https://x.com/bui_tu46916/status/2091747983863972339/photo/1",
+          "media_key": "3_2091747977555795968",
+          "start": 43,
+          "url": "https://t.co/qBLs5Cv0q9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091931356322574557",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091747977555795968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091747983863972339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 死藤水的bad trip几乎要了我的命，但我回来了 https://t.co/qBLs5Cv0q9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2091747977555795968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdhs_na4AAwgHp.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091747977555795968"
+          ],
+          "media_source_tweet_id": [
+            "2091747983863972339"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2091931356322574557",
+        "created_at": "2026-08-24T16:51:16.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091931356322574557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBLs5Cv0q9",
+              "end": 66,
+              "expanded_url": "https://x.com/bui_tu46916/status/2091747983863972339/photo/1",
+              "media_key": "3_2091747977555795968",
+              "start": 43,
+              "url": "https://t.co/qBLs5Cv0q9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091931356322574557",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091747977555795968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091747983863972339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 死藤水的bad trip几乎要了我的命，但我回来了 https://t.co/qBLs5Cv0q9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091747977555795968"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2091747983863972339",
+        "created_at": "2026-08-24T04:42:36.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T05:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091747983863972339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBLs5Cv0q9",
+              "end": 49,
+              "expanded_url": "https://x.com/bui_tu46916/status/2091747983863972339/photo/1",
+              "media_key": "3_2091747977555795968",
+              "start": 26,
+              "url": "https://t.co/qBLs5Cv0q9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091747983863972339",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091747977555795968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死藤水的bad trip几乎要了我的命，但我回来了 https://t.co/qBLs5Cv0q9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊/爱人TV幸存者/消极自由/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2091931356322574557",
+        "name": "yellahana～🍡",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 343,
+          "like_count": 3676,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo \n渴望成为健全人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2091927045437841604",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 340,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1170
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

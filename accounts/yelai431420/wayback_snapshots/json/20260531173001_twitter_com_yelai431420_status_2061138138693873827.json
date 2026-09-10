@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2061138138693873827",
+    "created_at": "2026-05-31T17:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061138138693873827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "yalai～🍡’s Space · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1RJZz…",
+          "end": 31,
+          "expanded_url": "https://x.com/i/spaces/1RJZzzodMdQJB",
+          "start": 8,
+          "status": 200,
+          "title": "This Space has ended: 思诺思疯狂时间",
+          "unwound_url": "https://twitter.com/i/spaces/1RJZzzodMdQJB/peek",
+          "url": "https://t.co/P8KE23OJXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061138138693873827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "加入我的空间！ https://t.co/P8KE23OJXZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2061138138693873827",
+        "created_at": "2026-05-31T17:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061138138693873827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "yalai～🍡’s Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1RJZz…",
+              "end": 31,
+              "expanded_url": "https://x.com/i/spaces/1RJZzzodMdQJB",
+              "start": 8,
+              "status": 200,
+              "title": "This Space has ended: 思诺思疯狂时间",
+              "unwound_url": "https://twitter.com/i/spaces/1RJZzzodMdQJB/peek",
+              "url": "https://t.co/P8KE23OJXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061138138693873827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加入我的空间！ https://t.co/P8KE23OJXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kyoto, Kyōto, Japan",
+              "geo": {
+                "coordinates": [
+                  135.75385,
+                  35.02107
+                ],
+                "type": "Point"
+              },
+              "locality": "Kyoto",
+              "region": "Kyōto"
+            }
+          ]
+        },
+        "description": "overdose///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr     \n/https://t.co/UPvoVUe8n6金主:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 47,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 24,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yalai60817",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yalai60817",
+                "start": 54,
+                "url": "https://t.co/UPvoVUe8n6"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 154,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 335
+        },
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

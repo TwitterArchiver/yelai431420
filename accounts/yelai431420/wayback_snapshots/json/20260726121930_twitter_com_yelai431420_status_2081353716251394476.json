@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2081353716251394476",
+    "created_at": "2026-07-26T12:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081353716251394476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/misumikaede3/s…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/misumikaede3/status/2081329954504179717",
+          "start": 103,
+          "url": "https://t.co/o286D2NrVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081353716251394476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081329954504179717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么，你不喜欢我割手呀，我以后不割了，我以后不割手，不磕药了，昨晚见到你的时候我笑成那个样子，因为磕药了，你没感觉吗？我不是总磕的，我只是不开心的时候才磕，我以后不磕了，相信我，我就这样，从早到晚的看着你 https://t.co/o286D2NrVG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2081353716251394476",
+        "created_at": "2026-07-26T12:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081353716251394476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misumikaede3/s…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/misumikaede3/status/2081329954504179717",
+              "start": 103,
+              "url": "https://t.co/o286D2NrVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081353716251394476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081329954504179717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么，你不喜欢我割手呀，我以后不割了，我以后不割手，不磕药了，昨晚见到你的时候我笑成那个样子，因为磕药了，你没感觉吗？我不是总磕的，我只是不开心的时候才磕，我以后不磕了，相信我，我就这样，从早到晚的看着你 https://t.co/o286D2NrVG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2081329954504179717",
+        "created_at": "2026-07-26T10:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081329954504179717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sui_aini/statu…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/sui_aini/status/2081021268145443013",
+              "start": 103,
+              "url": "https://t.co/iMCYic9Ifk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081329954504179717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 143,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081021268145443013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么，你不喜欢我割手呀，我以后不割了，我以后不割手，不磕药了，昨晚见到你的时候我笑成那个样子，因为磕药了，你没感觉吗？我不是总磕的，我只是不开心的时候才磕，我以后不磕了，相信我，我就这样，从早到晚的看着你 https://t.co/iMCYic9Ifk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "附庸的附庸/💊/爱人TV幸存者/消极自由/https://t.co/7qeRebGwM5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 44,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 21,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgfmTr"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "!",
+        "name": "yella nagisa～#天仓五🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 280,
+          "like_count": 2853,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/yiPFTgfmTr",
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜atmosPheRe for sale｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#井宿三",
+        "pinned_tweet_id": "2078395124082737236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1336,
+          "like_count": 42805,
+          "listed_count": 5,
+          "media_count": 447,
+          "tweet_count": 13847
+        },
+        "url": "",
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

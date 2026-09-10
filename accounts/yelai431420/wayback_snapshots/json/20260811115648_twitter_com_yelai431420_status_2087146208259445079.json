@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2087146208259445079",
+    "created_at": "2026-08-11T11:56:48.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087146208259445079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/misumikaede3/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/misumikaede3/status/2087130073942184014",
+          "start": 4,
+          "url": "https://t.co/PVbx7PJmwW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087146208259445079",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087130073942184014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不好笑 https://t.co/PVbx7PJmwW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2087146208259445079",
+        "created_at": "2026-08-11T11:56:48.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087146208259445079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misumikaede3/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/misumikaede3/status/2087130073942184014",
+              "start": 4,
+              "url": "https://t.co/PVbx7PJmwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087146208259445079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087130073942184014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不好笑 https://t.co/PVbx7PJmwW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2087130073942184014",
+        "created_at": "2026-08-11T10:52:41.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087130073942184014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yelai431420/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/yelai431420/status/2087026320597475622",
+              "start": 29,
+              "url": "https://t.co/nomws5myWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087130073942184014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 168,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087026320597475622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析，解离剂o大了突发奇想要住院戒pr阿片现在后悔了 https://t.co/nomws5myWo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊/爱人TV幸存者/消极自由/https://t.co/7qeRebFYWx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 39,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 16,
+                "url": "https://t.co/7qeRebFYWx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "岛",
+        "most_recent_tweet_id": "2087146208259445079",
+        "name": "yella plastic～#天仓五🍡",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 344,
+          "like_count": 3453,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉",
+        "id": "1802704441961017344",
+        "is_identity_verified": false,
+        "location": "燃素与以太之地",
+        "most_recent_tweet_id": "2087130073942184014",
+        "name": "三角枫🏳️‍⚧️#井宿三",
+        "pinned_tweet_id": "2083826401715875931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1802704441961017344/1780659040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082654973364752384/fRzyVEmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 1353,
+          "like_count": 44519,
+          "listed_count": 6,
+          "media_count": 458,
+          "tweet_count": 14446
+        },
+        "url": "",
+        "username": "misumikaede3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2005090138041581744",
+    "created_at": "2025-12-28T02:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T03:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005108570707398769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005108570707398769",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005090138041581744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 鲨鲨！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2261,
+        "media_key": "3_2005090135147470848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9OC2sAa4AAUnRs.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2005090138041581744",
+        "created_at": "2025-12-28T02:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T03:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005108570707398769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005108570707398769",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005090138041581744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 鲨鲨！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005090135147470848"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2005090138041581744",
+        "created_at": "2025-12-28T01:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T02:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005090138041581744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xZZgfc7r0",
+              "end": 76,
+              "expanded_url": "https://x.com/gdioiui/status/2005090138041581744/photo/1",
+              "media_key": "3_2005090135147470848",
+              "start": 53,
+              "url": "https://t.co/0xZZgfc7r0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005090138041581744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上和抱枕一起睡 挺舒服的\n只醒了三次居然⌓‿⌓\n抱枕助眠是真的喵\n开心^_^（这个抱枕有个秘密哦） https://t.co/0xZZgfc7r0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose/电子游戏//爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998378370934206464/0z96ZbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 81,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 174
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004864052078518272/RJiNSVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 168,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

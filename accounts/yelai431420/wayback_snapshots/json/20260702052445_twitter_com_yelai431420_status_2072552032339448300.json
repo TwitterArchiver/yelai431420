@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2072552032339448300",
+    "created_at": "2026-07-02T05:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072552032339448300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yelai431420/st…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/yelai431420/status/2072549069948666091",
+          "start": 74,
+          "url": "https://t.co/mAfukXssce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072552032339448300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072549069948666091",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "里面所谓的心理老师每周会给你一次“心理辅导”实则是跟你诡辩洗脑导致我已经完全不信任任何心理医生了，我宁愿给自己喂药也不想听那些狗屁不通的心理辅导了 https://t.co/mAfukXssce"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2072552032339448300",
+        "created_at": "2026-07-02T05:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072552032339448300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yelai431420/st…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/yelai431420/status/2072549069948666091",
+              "start": 74,
+              "url": "https://t.co/mAfukXssce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072552032339448300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072549069948666091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "里面所谓的心理老师每周会给你一次“心理辅导”实则是跟你诡辩洗脑导致我已经完全不信任任何心理医生了，我宁愿给自己喂药也不想听那些狗屁不通的心理辅导了 https://t.co/mAfukXssce"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2072549069948666091",
+        "created_at": "2026-07-02T05:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072549069948666091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072549069948666091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被戒网瘾学校爱了一年都没有天天去发表支黑言论我发现我简直就是圣人😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose💊///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr /https://t.co/7qeRebGwM5\n君:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 48,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 25,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 73,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 50,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "能共同微笑是件幸福的事",
+        "name": "yelai～#天仓五🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 203,
+          "like_count": 2053,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

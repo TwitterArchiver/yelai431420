@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2071088601811832997",
+    "created_at": "2026-06-28T04:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071088601811832997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/misumikaede3/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/misumikaede3/status/2071080199832371454",
+          "start": 24,
+          "url": "https://t.co/48iYZgoHbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071088601811832997",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071080199832371454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "11:30 1.5g菲尼布特 10t普瑞巴林😶 https://t.co/48iYZgoHbo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2071088601811832997",
+        "created_at": "2026-06-28T04:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071088601811832997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misumikaede3/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/misumikaede3/status/2071080199832371454",
+              "start": 24,
+              "url": "https://t.co/48iYZgoHbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071088601811832997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071080199832371454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "11:30 1.5g菲尼布特 10t普瑞巴林😶 https://t.co/48iYZgoHbo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2071080199832371454",
+        "created_at": "2026-06-28T03:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071080199832371454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071080199832371454",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "11:30 1.5g 菲尼布特 1t巴氯芬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr /https://t.co/7qeRebGwM5\n金主:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 47,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 24,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 72,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 49,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "漫漫长路到蒂珀雷里",
+        "name": "yalai～#天仓五🍡",
+        "pinned_tweet_id": "2067090294827552974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 193,
+          "like_count": 1914,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉 小号的我：你猜",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#锦绣三",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 1283,
+          "like_count": 38984,
+          "listed_count": 4,
+          "media_count": 395,
+          "tweet_count": 12475
+        },
+        "url": "",
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

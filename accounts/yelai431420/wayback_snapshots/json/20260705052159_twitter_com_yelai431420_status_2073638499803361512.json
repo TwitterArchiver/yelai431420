@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2073372189911658750",
+    "created_at": "2026-07-05T05:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073638499803361512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1500264356638261251",
+          "start": 0,
+          "username": "X77291975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073638499803361512",
+    "in_reply_to_user_id": "1500264356638261251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073635474862931990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X77291975 舒服啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2073372189911658750",
+        "created_at": "2026-07-05T05:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073638499803361512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1500264356638261251",
+              "start": 0,
+              "username": "X77291975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073638499803361512",
+        "in_reply_to_user_id": "1500264356638261251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073635474862931990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X77291975 舒服啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500264356638261251",
+        "conversation_id": "2073372189911658750",
+        "created_at": "2026-07-05T05:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073635474862931990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775846129243942912",
+              "start": 0,
+              "username": "yelai431420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073635474862931990",
+        "in_reply_to_user_id": "1775846129243942912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073372189911658750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yelai431420 都爱吃不分情况怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose💊///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr /https://t.co/7qeRebGwM5\n君:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 48,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 25,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 73,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 50,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "能共同微笑是件幸福的事",
+        "name": "yella nagisa～#天仓五🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 230,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T00:18:12.000Z",
+        "description": "",
+        "id": "1500264356638261251",
+        "location": "Hong Kong",
+        "name": "小起🍥 抑制剂重度依赖(",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011121027326361600/HcnX5dAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 74,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "X77291975",
+        "verified": false
+      }
+    ]
+  }
+}

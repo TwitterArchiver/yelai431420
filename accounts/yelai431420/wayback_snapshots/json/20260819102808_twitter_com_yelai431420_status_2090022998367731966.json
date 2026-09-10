@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2090022998367731966",
+    "created_at": "2026-08-19T10:28:08.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090022998367731966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1756513049488633856",
+          "start": 3,
+          "username": "yizhiyangguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090022998367731966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090001623083016340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yizhiyangguang: 老大我灌注你了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2090022998367731966",
+        "created_at": "2026-08-19T10:28:08.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090022998367731966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1756513049488633856",
+              "start": 3,
+              "username": "yizhiyangguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090022998367731966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090001623083016340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yizhiyangguang: 老大我灌注你了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756513049488633856",
+        "conversation_id": "2090001623083016340",
+        "created_at": "2026-08-19T09:03:11.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090001623083016340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashesssssssss_…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ashesssssssss_/status/2089988336945709481",
+              "start": 9,
+              "url": "https://t.co/ay3INRVPGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090001623083016340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089988336945709481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老大我灌注你了喵 https://t.co/ay3INRVPGz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊/爱人TV幸存者/消极自由/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "岛",
+        "most_recent_tweet_id": "2090022998367731966",
+        "name": "yellahana～🍡",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 335,
+          "like_count": 3600,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-11T02:59:03.000Z",
+        "description": "叫我惠子咪/06出厂/玉玉症/炸柜/家暴党/intp-t/mtf/xyn/无证含糖/大学不在读/偶尔od\n\n这里只是发些碎碎念，随缘发\n\n对上我的电波就请fo我吧！",
+        "id": "1756513049488633856",
+        "is_identity_verified": false,
+        "location": "彩虹的女儿",
+        "most_recent_tweet_id": "2090022933057954235",
+        "name": "红枣味惠子🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756513049488633856/1780392710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061955030790369280/_ravmONh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 76,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "yizhiyangguang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

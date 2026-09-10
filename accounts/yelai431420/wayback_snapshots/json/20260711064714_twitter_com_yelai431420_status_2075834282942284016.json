@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075834280325038080",
+        "3_2075834280509595648"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075834282942284016",
+    "created_at": "2026-07-11T06:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075834282942284016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Icualin40f",
+          "end": 34,
+          "expanded_url": "https://x.com/yelai431420/status/2075834282942284016/photo/1",
+          "media_key": "3_2075834280325038080",
+          "start": 11,
+          "url": "https://t.co/Icualin40f"
+        },
+        {
+          "display_url": "pic.x.com/Icualin40f",
+          "end": 34,
+          "expanded_url": "https://x.com/yelai431420/status/2075834282942284016/photo/1",
+          "media_key": "3_2075834280509595648",
+          "start": 11,
+          "url": "https://t.co/Icualin40f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075834282942284016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的 在下雨的的说😢 https://t.co/Icualin40f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2075834280325038080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7YR5taQAAHc0m.jpg",
+        "width": 1440
+      },
+      {
+        "height": 368,
+        "media_key": "3_2075834280509595648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7YR6ZaYAA1Wg2.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075834280325038080",
+            "3_2075834280509595648"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075834282942284016",
+        "created_at": "2026-07-11T06:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075834282942284016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Icualin40f",
+              "end": 34,
+              "expanded_url": "https://x.com/yelai431420/status/2075834282942284016/photo/1",
+              "media_key": "3_2075834280325038080",
+              "start": 11,
+              "url": "https://t.co/Icualin40f"
+            },
+            {
+              "display_url": "pic.x.com/Icualin40f",
+              "end": 34,
+              "expanded_url": "https://x.com/yelai431420/status/2075834282942284016/photo/1",
+              "media_key": "3_2075834280509595648",
+              "start": 11,
+              "url": "https://t.co/Icualin40f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075834282942284016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的 在下雨的的说😢 https://t.co/Icualin40f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "附庸的附庸/💊/爱人TV幸存者/消极自由/https://t.co/7qeRebGwM5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 44,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 21,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgfmTr"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "!",
+        "name": "yella nagisa～#天仓五🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 239,
+          "like_count": 2397,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/yiPFTgfmTr",
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

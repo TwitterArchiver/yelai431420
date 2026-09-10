@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061232345168977922"
+      ],
+      "media_source_tweet_id": [
+        "2061236282978861516"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "conversation_id": "2061339409648373961",
+    "created_at": "2026-06-01T06:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061339409648373961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1238520105841168386",
+          "start": 3,
+          "username": "cybercxre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sZjGAxFVRd",
+          "end": 38,
+          "expanded_url": "https://x.com/cybercxre/status/2061236282978861516/photo/1",
+          "media_key": "3_2061232345168977922",
+          "start": 15,
+          "url": "https://t.co/sZjGAxFVRd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061339409648373961",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 299
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061236282978861516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cybercxre: https://t.co/sZjGAxFVRd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_2061232345168977922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJr35aVXoAI7P81.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061232345168977922"
+          ],
+          "media_source_tweet_id": [
+            "2061236282978861516"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2061339409648373961",
+        "created_at": "2026-06-01T06:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061339409648373961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1238520105841168386",
+              "start": 3,
+              "username": "cybercxre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZjGAxFVRd",
+              "end": 38,
+              "expanded_url": "https://x.com/cybercxre/status/2061236282978861516/photo/1",
+              "media_key": "3_2061232345168977922",
+              "start": 15,
+              "url": "https://t.co/sZjGAxFVRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061339409648373961",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061236282978861516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cybercxre: https://t.co/sZjGAxFVRd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061232345168977922"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "conversation_id": "2061236282978861516",
+        "created_at": "2026-06-01T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061236282978861516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZjGAxFVRd",
+              "end": 23,
+              "expanded_url": "https://x.com/cybercxre/status/2061236282978861516/photo/1",
+              "media_key": "3_2061232345168977922",
+              "start": 0,
+              "url": "https://t.co/sZjGAxFVRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061236282978861516",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 15586,
+          "like_count": 1364,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sZjGAxFVRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kyoto, Kyōto, Japan",
+              "geo": {
+                "coordinates": [
+                  135.75385,
+                  35.02107
+                ],
+                "type": "Point"
+              },
+              "locality": "Kyoto",
+              "region": "Kyōto"
+            }
+          ]
+        },
+        "description": "overdose///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr     \n/https://t.co/UPvoVUe8n6金主:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 47,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 24,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yalai60817",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yalai60817",
+                "start": 54,
+                "url": "https://t.co/UPvoVUe8n6"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 155,
+          "like_count": 1261,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 335
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "plin plin plon",
+        "id": "1238520105841168386",
+        "name": "cybercore",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052839544215556097/AdMZJt62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99362,
+          "following_count": 28,
+          "like_count": 2324,
+          "listed_count": 134,
+          "media_count": 2412,
+          "tweet_count": 2624
+        },
+        "username": "cybercxre",
+        "verified": true
+      }
+    ]
+  }
+}

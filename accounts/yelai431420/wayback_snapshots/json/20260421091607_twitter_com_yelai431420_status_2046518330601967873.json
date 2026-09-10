@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046197207192453120",
+        "3_2046197210652762112"
+      ],
+      "media_source_tweet_id": [
+        "2046197214217970017",
+        "2046197214217970017"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "conversation_id": "2046518330601967873",
+    "created_at": "2026-04-21T09:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046518330601967873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013321876224057344",
+          "start": 3,
+          "username": "OTxiashu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yO0uKDS9wF",
+          "end": 59,
+          "expanded_url": "https://x.com/OTxiashu/status/2046197214217970017/photo/1",
+          "media_key": "3_2046197207192453120",
+          "start": 36,
+          "url": "https://t.co/yO0uKDS9wF"
+        },
+        {
+          "display_url": "pic.x.com/yO0uKDS9wF",
+          "end": 59,
+          "expanded_url": "https://x.com/OTxiashu/status/2046197214217970017/photo/1",
+          "media_key": "3_2046197210652762112",
+          "start": 36,
+          "url": "https://t.co/yO0uKDS9wF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046518330601967873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046197214217970017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OTxiashu: 再见👋🏻普瑞巴林🫡我大概一辈子也忘不了你吧 https://t.co/yO0uKDS9wF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046197207192453120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWNhMsaQAAkQqK.jpg",
+        "width": 1643
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046197210652762112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWNhZlaYAAPJVq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046197207192453120",
+            "3_2046197210652762112"
+          ],
+          "media_source_tweet_id": [
+            "2046197214217970017",
+            "2046197214217970017"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2046518330601967873",
+        "created_at": "2026-04-21T09:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046518330601967873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013321876224057344",
+              "start": 3,
+              "username": "OTxiashu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yO0uKDS9wF",
+              "end": 59,
+              "expanded_url": "https://x.com/OTxiashu/status/2046197214217970017/photo/1",
+              "media_key": "3_2046197207192453120",
+              "start": 36,
+              "url": "https://t.co/yO0uKDS9wF"
+            },
+            {
+              "display_url": "pic.x.com/yO0uKDS9wF",
+              "end": 59,
+              "expanded_url": "https://x.com/OTxiashu/status/2046197214217970017/photo/1",
+              "media_key": "3_2046197210652762112",
+              "start": 36,
+              "url": "https://t.co/yO0uKDS9wF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046518330601967873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046197214217970017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OTxiashu: 再见👋🏻普瑞巴林🫡我大概一辈子也忘不了你吧 https://t.co/yO0uKDS9wF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046197207192453120",
+            "3_2046197210652762112"
+          ]
+        },
+        "author_id": "2013321876224057344",
+        "conversation_id": "2046197214217970017",
+        "created_at": "2026-04-20T12:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046197214217970017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yO0uKDS9wF",
+              "end": 45,
+              "expanded_url": "https://x.com/OTxiashu/status/2046197214217970017/photo/1",
+              "media_key": "3_2046197207192453120",
+              "start": 22,
+              "url": "https://t.co/yO0uKDS9wF"
+            },
+            {
+              "display_url": "pic.x.com/yO0uKDS9wF",
+              "end": 45,
+              "expanded_url": "https://x.com/OTxiashu/status/2046197214217970017/photo/1",
+              "media_key": "3_2046197210652762112",
+              "start": 22,
+              "url": "https://t.co/yO0uKDS9wF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046197214217970017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3164,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "再见👋🏻普瑞巴林🫡我大概一辈子也忘不了你吧 https://t.co/yO0uKDS9wF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kyoto, Kyōto, Japan",
+              "geo": {
+                "coordinates": [
+                  135.75385,
+                  35.02107
+                ],
+                "type": "Point"
+              },
+              "locality": "Kyoto",
+              "region": "Kyōto"
+            }
+          ]
+        },
+        "description": "overdose/电子游戏//爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 105,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 257
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 411,
+          "like_count": 7863,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 3122
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

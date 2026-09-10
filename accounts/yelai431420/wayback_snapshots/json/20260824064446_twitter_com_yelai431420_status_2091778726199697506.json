@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091489238558593025"
+      ],
+      "media_source_tweet_id": [
+        "2091489284721164428"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "conversation_id": "2091778726199697506",
+    "created_at": "2026-08-24T06:44:46.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T07:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091778726199697506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1740382929904136192",
+          "start": 3,
+          "username": "biggblaxxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EjyRECtoei",
+          "end": 94,
+          "expanded_url": "https://x.com/biggblaxxx/status/2091489284721164428/video/1",
+          "media_key": "13_2091489238558593025",
+          "start": 71,
+          "url": "https://t.co/EjyRECtoei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091778726199697506",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2091489238558593025"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 341
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091489284721164428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biggblaxxx: nobody will know you’re stoned if you’re always stoned https://t.co/EjyRECtoei"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12250,
+        "height": 360,
+        "media_key": "13_2091489238558593025",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091489238558593025/img/fWyE6C3BmkHOct-_.jpg",
+        "public_metrics": {
+          "view_count": 17926
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091489238558593025/vid/avc1/480x270/ytiIBPxWtg1sZrOO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091489238558593025/vid/avc1/640x360/1EOLSaUmKDm0ZGHJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091489238558593025/pl/wi9JpEmUZ-NqaZwH.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091489238558593025"
+          ],
+          "media_source_tweet_id": [
+            "2091489284721164428"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2091778726199697506",
+        "created_at": "2026-08-24T06:44:46.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091778726199697506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1740382929904136192",
+              "start": 3,
+              "username": "biggblaxxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjyRECtoei",
+              "end": 94,
+              "expanded_url": "https://x.com/biggblaxxx/status/2091489284721164428/video/1",
+              "media_key": "13_2091489238558593025",
+              "start": 71,
+              "url": "https://t.co/EjyRECtoei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091778726199697506",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091489238558593025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 341
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091489284721164428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biggblaxxx: nobody will know you’re stoned if you’re always stoned https://t.co/EjyRECtoei"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091489238558593025"
+          ]
+        },
+        "author_id": "1740382929904136192",
+        "conversation_id": "2091489284721164428",
+        "created_at": "2026-08-23T11:34:38.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091489284721164428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjyRECtoei",
+              "end": 78,
+              "expanded_url": "https://x.com/biggblaxxx/status/2091489284721164428/video/1",
+              "media_key": "13_2091489238558593025",
+              "start": 55,
+              "url": "https://t.co/EjyRECtoei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091489284721164428",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091489238558593025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 37506,
+          "like_count": 2985,
+          "quote_count": 12,
+          "reply_count": 4,
+          "retweet_count": 341
+        },
+        "reply_settings": "everyone",
+        "text": "nobody will know you’re stoned if you’re always stoned https://t.co/EjyRECtoei"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊/爱人TV幸存者/消极自由/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2091778726199697506",
+        "name": "yellahana～🍡",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 340,
+          "like_count": 3658,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-28T14:43:46.000Z",
+        "description": "a chill guy🧸\nlive yours🤍",
+        "id": "1740382929904136192",
+        "is_identity_verified": false,
+        "location": "Somewhere on earth🌎",
+        "most_recent_tweet_id": "2091770393182806145",
+        "name": "Blaxx🦇",
+        "pinned_tweet_id": "2090833058278600746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1740382929904136192/1773145195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031343764116221957/i5LU5PWB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2691,
+          "following_count": 1904,
+          "like_count": 37196,
+          "listed_count": 10,
+          "media_count": 2347,
+          "tweet_count": 15645
+        },
+        "url": "",
+        "username": "biggblaxxx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

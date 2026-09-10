@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2064507906247028981",
+    "created_at": "2026-06-10T13:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064696635251413376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1868265619369455616",
+          "start": 0,
+          "username": "girl2042022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064696635251413376",
+    "in_reply_to_user_id": "1868265619369455616",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064507906247028981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@girl2042022 ic26win1161-3  Xanax  Lyric Phenibut"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2064507906247028981",
+        "created_at": "2026-06-10T13:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064696635251413376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868265619369455616",
+              "start": 0,
+              "username": "girl2042022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064696635251413376",
+        "in_reply_to_user_id": "1868265619369455616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064507906247028981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@girl2042022 ic26win1161-3  Xanax  Lyric Phenibut"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868265619369455616",
+        "conversation_id": "2064507906247028981",
+        "created_at": "2026-06-10T00:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064507906247028981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064507906247028981",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 293114,
+          "like_count": 2043,
+          "quote_count": 99,
+          "reply_count": 236,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "Autistic junkies weigh in, which drugs make u the most normal and sociable"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr /https://t.co/7qeRebGwM5\n金主:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 47,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 24,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 72,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 49,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "漫漫长路到蒂珀雷里",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 169,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 368
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T12:03:44.000Z",
+        "description": "😇😇😇",
+        "id": "1868265619369455616",
+        "location": "20 years ripe for slaughter",
+        "name": "✧",
+        "pinned_tweet_id": "2062921137604968712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062202110536568832/rB2w4I43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 124,
+          "like_count": 5794,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 802
+        },
+        "username": "girl2042022",
+        "verified": false
+      }
+    ]
+  }
+}

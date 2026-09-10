@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951645361745149952"
+      ],
+      "media_source_tweet_id": [
+        "1951645367159951740"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "conversation_id": "1951658970118266975",
+    "created_at": "2025-08-02T14:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T15:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951658970118266975"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "FOREVER",
+          "probability": 0.5574,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1628243471021789184",
+          "start": 3,
+          "username": "HdRy_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vI2i1sv6p6",
+          "end": 48,
+          "expanded_url": "https://x.com/HdRy_7/status/1951645367159951740/photo/1",
+          "media_key": "3_1951645361745149952",
+          "start": 25,
+          "url": "https://t.co/vI2i1sv6p6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951658970118266975",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951645367159951740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HdRy_7: LOVE FOREVER https://t.co/vI2i1sv6p6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 456,
+        "media_key": "3_1951645361745149952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWjHcJbwAAFdg_.jpg",
+        "width": 507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951645361745149952"
+          ],
+          "media_source_tweet_id": [
+            "1951645367159951740"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "1951658970118266975",
+        "created_at": "2025-08-02T14:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T15:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951658970118266975"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "FOREVER",
+              "probability": 0.5574,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1628243471021789184",
+              "start": 3,
+              "username": "HdRy_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vI2i1sv6p6",
+              "end": 48,
+              "expanded_url": "https://x.com/HdRy_7/status/1951645367159951740/photo/1",
+              "media_key": "3_1951645361745149952",
+              "start": 25,
+              "url": "https://t.co/vI2i1sv6p6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951658970118266975",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951645367159951740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HdRy_7: LOVE FOREVER https://t.co/vI2i1sv6p6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951645361745149952"
+          ]
+        },
+        "author_id": "1628243471021789184",
+        "conversation_id": "1951645367159951740",
+        "created_at": "2025-08-02T14:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T15:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951645367159951740"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "FOREVER",
+              "probability": 0.3591,
+              "start": 5,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vI2i1sv6p6",
+              "end": 36,
+              "expanded_url": "https://x.com/HdRy_7/status/1951645367159951740/photo/1",
+              "media_key": "3_1951645361745149952",
+              "start": 13,
+              "url": "https://t.co/vI2i1sv6p6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951645367159951740",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1601,
+          "like_count": 283,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "LOVE FOREVER https://t.co/vI2i1sv6p6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "",
+        "id": "1775846129243942912",
+        "name": "结梗晚安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939984408842248192/8x-c2J_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T04:01:19.000Z",
+        "description": "Artist♡̴⟡. サークル名崇拝病棟 comission openご依頼dm⭕️ sub→@sub_hdry",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "sub_hdry"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "webcatalog.circle.ms/Perma/Circle/1…",
+                "end": 23,
+                "expanded_url": "https://webcatalog.circle.ms/Perma/Circle/10489776",
+                "start": 0,
+                "url": "https://t.co/Gvuuv3Qhbv"
+              }
+            ]
+          }
+        },
+        "id": "1628243471021789184",
+        "location": "↓夏コミの頒布物＆お気に入りはここから",
+        "name": "内出血過多@C106 1日目 東5ニ-47a",
+        "pinned_tweet_id": "1883150442487759039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834262982697910273/hhqLNiGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8346,
+          "following_count": 54,
+          "like_count": 4494,
+          "listed_count": 26,
+          "media_count": 591,
+          "tweet_count": 2278
+        },
+        "url": "https://t.co/Gvuuv3Qhbv",
+        "username": "HdRy_7",
+        "verified": false
+      }
+    ]
+  }
+}

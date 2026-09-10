@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2059589397146927381",
+    "created_at": "2026-05-27T10:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059589397146927381"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059589397146927381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "菲尼布特 配 普瑞巴林\nGABA-B 再加钙通道\n医生点头我就笑\n指标 完成奖金到\n院长主任 坐一桌\n品种 轮流来推销\n这个月主推抗焦虑\n下个月主推镇痛王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2059589397146927381",
+        "created_at": "2026-05-27T10:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059589397146927381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059589397146927381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菲尼布特 配 普瑞巴林\nGABA-B 再加钙通道\n医生点头我就笑\n指标 完成奖金到\n院长主任 坐一桌\n品种 轮流来推销\n这个月主推抗焦虑\n下个月主推镇痛王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kyoto, Kyōto, Japan",
+              "geo": {
+                "coordinates": [
+                  135.75385,
+                  35.02107
+                ],
+                "type": "Point"
+              },
+              "locality": "Kyoto",
+              "region": "Kyōto"
+            }
+          ]
+        },
+        "description": "overdose///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr     \n/https://t.co/UPvoVUe8n6老公:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 47,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 24,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yalai60817",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yalai60817",
+                "start": 54,
+                "url": "https://t.co/UPvoVUe8n6"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 139,
+          "like_count": 1090,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 294
+        },
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

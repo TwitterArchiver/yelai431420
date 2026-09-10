@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "1999309621845254386",
+    "created_at": "2025-12-13T21:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T22:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999953328915218781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1652842741922140162",
+          "start": 0,
+          "username": "Newiland_"
+        },
+        {
+          "end": 27,
+          "id": "1843201902550634496",
+          "start": 11,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999953328915218781",
+    "in_reply_to_user_id": "1652842741922140162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999916869592179169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Newiland_ @LwrDHYyuxR22499 谢谢你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "1999309621845254386",
+        "created_at": "2025-12-13T21:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T22:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999953328915218781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1652842741922140162",
+              "start": 0,
+              "username": "Newiland_"
+            },
+            {
+              "end": 27,
+              "id": "1843201902550634496",
+              "start": 11,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999953328915218781",
+        "in_reply_to_user_id": "1652842741922140162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999916869592179169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Newiland_ @LwrDHYyuxR22499 谢谢你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652842741922140162",
+        "conversation_id": "1999309621845254386",
+        "created_at": "2025-12-13T18:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T19:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999916869592179169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775846129243942912",
+              "start": 0,
+              "username": "yelai431420"
+            },
+            {
+              "end": 29,
+              "id": "1843201902550634496",
+              "start": 13,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999916869592179169",
+        "in_reply_to_user_id": "1775846129243942912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999708607236145643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yelai431420 @LwrDHYyuxR22499 宝宝要开心啊！这辈子到底怎么样只有自己说了算，不管其他人做了什么或者释放了怎样的恶意，恶有恶报，只要还有保护自己、远离的机会，就要想办法开心起来，自己不放弃什么都会好起来的，不要对药有依赖啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "od/电子游戏/阴暗比/爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998378370934206464/0z96ZbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 55,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 86
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T01:10:08.000Z",
+        "description": "",
+        "id": "1652842741922140162",
+        "name": "justice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925961140732915712/AQu1jRaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 66,
+          "like_count": 1142,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 67
+        },
+        "username": "Newiland_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309506833256502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 1141,
+          "like_count": 982,
+          "listed_count": 6,
+          "media_count": 275,
+          "tweet_count": 1567
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

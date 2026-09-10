@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "1991025529928233128",
+    "created_at": "2025-11-19T09:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T10:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991083507423072661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        },
+        {
+          "end": 18,
+          "id": "1437785792211034114",
+          "start": 9,
+          "username": "Xerenceu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991083507423072661",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991079341891936401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir @Xerenceu 我在同济医院能开到思诺思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "1991025529928233128",
+        "created_at": "2025-11-19T09:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991083507423072661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            },
+            {
+              "end": 18,
+              "id": "1437785792211034114",
+              "start": 9,
+              "username": "Xerenceu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991083507423072661",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991079341891936401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir @Xerenceu 我在同济医院能开到思诺思。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868203874726887424",
+        "conversation_id": "1991025529928233128",
+        "created_at": "2025-11-19T09:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991079341891936401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1437785792211034114",
+              "start": 0,
+              "username": "Xerenceu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991079341891936401",
+        "in_reply_to_user_id": "1437785792211034114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991025529928233128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xerenceu 我过几天也去开 好怕开到国产药😭😭你怎么和医生是的呀😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "",
+        "id": "1775846129243942912",
+        "location": "只有爱的！世界",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939984408842248192/8x-c2J_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "叫我小倒就好丨16岁丨lesbian丨overdose丨精神疾病患者丨LGBTQ+全友好🏳️‍🌈 丨 只fo同类丨 sub丨0 丨欢迎找我聊聊天丨请多关照",
+        "id": "1868203874726887424",
+        "location": "Hello",
+        "name": "我活着，无声的淌血",
+        "pinned_tweet_id": "1988931748185645459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 322,
+          "like_count": 877,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 408
+        },
+        "username": "daozhir",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T14:30:34.000Z",
+        "description": "“烷胺不是晚安”\n🚪50￥",
+        "id": "1437785792211034114",
+        "name": "CYP2D6💊🟨⬜️🟪⬛️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940282173522644993/fx-De2ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 318,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 653
+        },
+        "username": "Xerenceu",
+        "verified": false
+      }
+    ]
+  }
+}

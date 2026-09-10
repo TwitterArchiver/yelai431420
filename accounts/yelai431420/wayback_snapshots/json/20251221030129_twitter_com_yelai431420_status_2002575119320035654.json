@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2002570078949167291",
+    "created_at": "2025-12-21T03:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T04:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002575119320035654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002575119320035654",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002570078949167291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 无法选中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2002570078949167291",
+        "created_at": "2025-12-21T03:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T04:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002575119320035654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002575119320035654",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002570078949167291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 无法选中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2002570078949167291",
+        "created_at": "2025-12-21T02:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002570078949167291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002570078949167291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉你是打游戏被别人骂 你妈死了，能开心一整天的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "od/电子游戏/阴暗比/爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998378370934206464/0z96ZbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 68,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 142
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.7 (o^^o) ♡｜more moots!｜烟酒割药 四毒俱全｜无政府个人主义🏴｜非二元性别｜朋克摇滚 哲学 小说爱好者｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信我 只fo同类! 健全勿扰",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1993204221223879044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997881852657549312/35b--OQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 177,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 967
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

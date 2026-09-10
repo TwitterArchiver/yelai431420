@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2084072573814645206",
+    "created_at": "2026-08-03T03:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084112231370018886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1989627406391635968",
+          "start": 0,
+          "username": "drug_artist2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084112231370018886",
+    "in_reply_to_user_id": "1989627406391635968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084072573814645206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist2 危害性与戒断反应也是普瑞巴林的pro max🫡对于我来说是这样的 长期滥用大概率会上消化道出血戒断反应恐怖骇人剧烈的心悸被害妄想焦虑惊恐到时候就是拿普瑞巴林来戒这个了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2084072573814645206",
+        "created_at": "2026-08-03T03:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084112231370018886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084112231370018886",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084072573814645206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 危害性与戒断反应也是普瑞巴林的pro max🫡对于我来说是这样的 长期滥用大概率会上消化道出血戒断反应恐怖骇人剧烈的心悸被害妄想焦虑惊恐到时候就是拿普瑞巴林来戒这个了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084072573814645206",
+        "created_at": "2026-08-03T00:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084072573814645206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084072573814645206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "随着普瑞巴林被网络禁售\n我们还有什么能选择的？\n加巴喷丁？那太弱了 且需要时间管理\n菲尼布特是个很好的选择\n我们可以直接把菲尼布特认为是普瑞巴林+巴氯芬的pro max版本 但还是与普瑞巴林有不少区别的\n菲尼布特是GABA-B受体激动剂\n他通常是盐酸盐形式\n因此 它对肠胃有极其巨大的伤害\n前苏联与 1960 年在临床使用\n你可以很轻松的购买到它 然后使用\n一个不为人知的小技巧 我使用了很久\n在使用菲尼布特的时候配合小苏打\n可以有效缓解它的肠胃伤害"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 684,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随着普瑞巴林被网络禁售\n我们还有什么能选择的？\n加巴喷丁？那太弱了 且需要时间管理\n菲尼布特是个很好的选择\n我们可以直接把菲尼布特认为是普瑞巴林+巴氯芬的pro max版本 但还是与普瑞巴林有不少区别的\n菲尼布特是GABA-B受体激动剂\n他通常是盐酸盐形式\n因此 它对肠胃有极其巨大的伤害\n前苏联与 1960"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "附庸的附庸/💊/爱人TV幸存者/消极自由/https://t.co/7qeRebGwM5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 44,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 21,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgfmTr"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "只是幻想？",
+        "name": "yella plastic～#天仓五🍡",
+        "pinned_tweet_id": "2083532773374255548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 309,
+          "like_count": 3067,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/yiPFTgfmTr",
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 55,
+          "like_count": 359,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      }
+    ]
+  }
+}

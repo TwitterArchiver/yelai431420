@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2025922027211923813",
+    "created_at": "2026-02-24T08:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026219449960022213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916824571128287232",
+          "start": 0,
+          "username": "Spr1ngWlnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026219449960022213",
+    "in_reply_to_user_id": "1916824571128287232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025922027211923813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spr1ngWlnd 呼吸抑制被她掐死也值了全身暖暖好幸福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2025922024074604544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2FWNubcAAk-Db.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2025922027211923813",
+        "created_at": "2026-02-24T08:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026219449960022213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "Spr1ngWlnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026219449960022213",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025922027211923813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr1ngWlnd 呼吸抑制被她掐死也值了全身暖暖好幸福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025922024074604544"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "conversation_id": "2025922027211923813",
+        "created_at": "2026-02-23T13:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025922027211923813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYNGlQDZT2",
+              "end": 150,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2025922027211923813/photo/1",
+              "media_key": "3_2025922024074604544",
+              "start": 127,
+              "url": "https://t.co/PYNGlQDZT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025922027211923813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2537,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得双氢可待因特别好磕吗？\n她像以“理解者”和“抚慰者”的姿态出现。她擅长倾听，并能提供一种温柔的“隔离感”，让痛苦、焦虑都变得遥远。起初是有效的，人们会逐渐沉迷于那种“无痛”的麻木状态，丧失主动面对问题的勇气和动力。她的温柔本质是一种缓慢的缴械。 https://t.co/PYNGlQDZT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kyoto, Kyōto, Japan",
+              "geo": {
+                "coordinates": [
+                  135.75385,
+                  35.02107
+                ],
+                "type": "Point"
+              },
+              "locality": "Kyoto",
+              "region": "Kyōto"
+            }
+          ]
+        },
+        "description": "overdose/电子游戏//爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 102,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 248
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2026215184751313233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 147,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 97
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

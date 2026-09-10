@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2083909458519097505",
+    "created_at": "2026-08-04T04:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084495034104386039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756513049488633856",
+          "start": 0,
+          "username": "yizhiyangguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084495034104386039",
+    "in_reply_to_user_id": "1756513049488633856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084408592241967379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizhiyangguang 谢谢妈咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2083909458519097505",
+        "created_at": "2026-08-04T04:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084495034104386039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756513049488633856",
+              "start": 0,
+              "username": "yizhiyangguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084495034104386039",
+        "in_reply_to_user_id": "1756513049488633856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084408592241967379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhiyangguang 谢谢妈咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756513049488633856",
+        "conversation_id": "2083909458519097505",
+        "created_at": "2026-08-03T22:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T23:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084408592241967379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775846129243942912",
+              "start": 0,
+              "username": "yelai431420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084408592241967379",
+        "in_reply_to_user_id": "1775846129243942912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083909458519097505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yelai431420 祝好运"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "附庸的附庸/💊🚬/爱人TV幸存者/消极自由/https://t.co/7qeRebFYWx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 45,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 22,
+                "url": "https://t.co/7qeRebFYWx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "只是幻想？",
+        "name": "yella plastic～#天仓五🍡",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 327,
+          "like_count": 3154,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T02:59:03.000Z",
+        "description": "叫我惠子咪/06出厂/玉玉症/炸柜/家暴党/intp-t/mtf/xyn/无证含糖/大学不在读/偶尔od\n\n这里只是发些碎碎念，随缘发\n\n对上我的电波就请fo我吧！",
+        "id": "1756513049488633856",
+        "location": "彩虹的女儿",
+        "name": "草莓味惠子🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061955030790369280/_ravmONh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 59,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "yizhiyangguang",
+        "verified": false
+      }
+    ]
+  }
+}

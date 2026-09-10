@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2072888773051085197",
+    "created_at": "2026-07-03T03:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072888773051085197"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 11,
+          "tag": "分享普瑞巴林不好体验戒掉普瑞巴林回归正常人生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476198137589268480",
+          "start": 3,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072888773051085197",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072845188813435063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N3kuv: #分享普瑞巴林不好体验戒掉普瑞巴林回归正常人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2072888773051085197",
+        "created_at": "2026-07-03T03:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072888773051085197"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 11,
+              "tag": "分享普瑞巴林不好体验戒掉普瑞巴林回归正常人生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476198137589268480",
+              "start": 3,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072888773051085197",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072845188813435063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N3kuv: #分享普瑞巴林不好体验戒掉普瑞巴林回归正常人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2072845188813435063",
+        "created_at": "2026-07-03T00:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072845188813435063"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 0,
+              "tag": "分享普瑞巴林不好体验戒掉普瑞巴林回归正常人生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/1227uwu/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/1227uwu/status/2072537527916130739",
+              "start": 24,
+              "url": "https://t.co/PdXSu5cAS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072845188813435063",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072537527916130739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#分享普瑞巴林不好体验戒掉普瑞巴林回归正常人生 https://t.co/PdXSu5cAS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose💊///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr /https://t.co/7qeRebGwM5\n君:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 48,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 25,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 73,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 50,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "能共同微笑是件幸福的事",
+        "name": "yella nagisa～#天仓五🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 211,
+          "like_count": 2092,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "既往不咎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekocaline",
+                "end": 23,
+                "expanded_url": "https://t.me/nekocaline",
+                "start": 0,
+                "url": "https://t.co/y3ZllgnZVb"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "fenty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072086875037106176/D55Dv2Qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 522,
+          "like_count": 5731,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/y3ZllgnZVb",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2072887554014326852",
+    "created_at": "2026-07-03T03:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072887554014326852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yelai431420/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/yelai431420/status/2072887226334404835",
+          "start": 26,
+          "url": "https://t.co/ddk6x8dafp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072887554014326852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072887226334404835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发现人手上的物质越多理性控制越差\n（我去不早说） https://t.co/ddk6x8dafp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2072887223637454848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRf8oBbMAAvt3L.jpg",
+        "width": 1338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2072887554014326852",
+        "created_at": "2026-07-03T03:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072887554014326852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yelai431420/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yelai431420/status/2072887226334404835",
+              "start": 26,
+              "url": "https://t.co/ddk6x8dafp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072887554014326852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072887226334404835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现人手上的物质越多理性控制越差\n（我去不早说） https://t.co/ddk6x8dafp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072887223637454848"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2072887226334404835",
+        "created_at": "2026-07-03T03:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072887226334404835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWXdgw6s4h",
+              "end": 60,
+              "expanded_url": "https://x.com/yelai431420/status/2072887226334404835/photo/1",
+              "media_key": "3_2072887223637454848",
+              "start": 37,
+              "url": "https://t.co/yWXdgw6s4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072887226334404835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日正常使用文拉法辛治疗加巴喷丁缓解pr戒断 又开始幻想自己能成功戒药了 https://t.co/yWXdgw6s4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose💊///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr /https://t.co/7qeRebGwM5\n君:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 48,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 25,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 73,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 50,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "能共同微笑是件幸福的事",
+        "name": "yella nagisa～#天仓五🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 211,
+          "like_count": 2090,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

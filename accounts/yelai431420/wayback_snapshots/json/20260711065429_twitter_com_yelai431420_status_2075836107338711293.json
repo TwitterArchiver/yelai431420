@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2075836107338711293",
+    "created_at": "2026-07-11T06:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075836107338711293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yelai431420/st…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/yelai431420/status/2075270158533460004",
+          "start": 50,
+          "url": "https://t.co/1hFf7e3B9h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075836107338711293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075270158533460004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所有药都有滥用的可能并不是享乐才是滥用 吞药自残也算是滥用。就像我吃阿片类自杀难道就不算是滥用吗。 https://t.co/1hFf7e3B9h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2075836107338711293",
+        "created_at": "2026-07-11T06:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075836107338711293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yelai431420/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/yelai431420/status/2075270158533460004",
+              "start": 50,
+              "url": "https://t.co/1hFf7e3B9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075836107338711293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075270158533460004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有药都有滥用的可能并不是享乐才是滥用 吞药自残也算是滥用。就像我吃阿片类自杀难道就不算是滥用吗。 https://t.co/1hFf7e3B9h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2075270158533460004",
+        "created_at": "2026-07-09T17:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075270158533460004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075270158533460004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6570,
+          "like_count": 67,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你立刻戒掉od嗑嗑还来得及，现在有喹硫平奥氮平尿检板一旦查出就是行政处罚社区戒毒三年 再被抓到就是两年戒毒所强戒 抓紧戒掉远离这个圈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "附庸的附庸/💊/爱人TV幸存者/消极自由/https://t.co/7qeRebGwM5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 44,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 21,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgfmTr"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "!",
+        "name": "yella nagisa～#天仓五🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 239,
+          "like_count": 2398,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/yiPFTgfmTr",
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

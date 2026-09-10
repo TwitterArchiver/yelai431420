@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "1999685743988605384",
+    "created_at": "2025-12-14T08:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T09:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000118278031892783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688252804958498816",
+          "start": 0,
+          "username": "umichen0502324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000118278031892783",
+    "in_reply_to_user_id": "1688252804958498816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999685743988605384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umichen0502324 吃阿片把自己呼吸抑制憋死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "1999685743988605384",
+        "created_at": "2025-12-14T08:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000118278031892783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688252804958498816",
+              "start": 0,
+              "username": "umichen0502324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000118278031892783",
+        "in_reply_to_user_id": "1688252804958498816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999685743988605384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umichen0502324 吃阿片把自己呼吸抑制憋死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688252804958498816",
+        "conversation_id": "1999685743988605384",
+        "created_at": "2025-12-13T03:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T04:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999685743988605384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RXdruglab/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/RXdruglab/status/1999352568095604882",
+              "start": 36,
+              "url": "https://t.co/Tu2x25dDbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999685743988605384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999352568095604882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以怎么样的自杀方式才是客观上可以自己完成，而且痛觉最少最不痛苦的呢? https://t.co/Tu2x25dDbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "od/电子游戏/阴暗比/爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998378370934206464/0z96ZbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 56,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 88
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T18:16:59.000Z",
+        "description": "我中病毒了，所以发送了奇怪的链接我很抱歉，请不要点击。\n嗨，你可以叫我豚鼠，以及其他无恶意的名字。我想要变得更幸福，\n💚好朋友 @sysjf0                                               我的心情会时不时变得很糟糕，对不起，请谅解。如果我有让你感到不舒服，我很抱歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 64,
+                "username": "sysjf0"
+              }
+            ]
+          }
+        },
+        "id": "1688252804958498816",
+        "location": "乌托邦",
+        "name": "✩带着蝴蝶结の魔法豚鼠₊⁺",
+        "pinned_tweet_id": "1952036776069230678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868922547032801280/Lad0rBg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 466,
+          "like_count": 6571,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 5483
+        },
+        "username": "umichen0502324",
+        "verified": false
+      }
+    ]
+  }
+}

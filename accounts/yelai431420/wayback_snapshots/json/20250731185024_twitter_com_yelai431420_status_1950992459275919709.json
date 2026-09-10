@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "1950956497766134027",
+    "created_at": "2025-07-31T18:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T19:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950992459275919709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1914573883430330368",
+          "start": 0,
+          "username": "beccakiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950992459275919709",
+    "in_reply_to_user_id": "1914573883430330368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950956497766134027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beccakiko 抽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950956490006941696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMwl08bUAAfpnM.jpg",
+        "width": 1148
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950956490023645184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMwl1AaMAAKfyL.jpg",
+        "width": 1190
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950956490015363072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMwl0-b0AA2Ptl.jpg",
+        "width": 1183
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "1950956497766134027",
+        "created_at": "2025-07-31T18:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T19:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950992459275919709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1914573883430330368",
+              "start": 0,
+              "username": "beccakiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950992459275919709",
+        "in_reply_to_user_id": "1914573883430330368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950956497766134027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beccakiko 抽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950956490006941696",
+            "3_1950956490023645184",
+            "3_1950956490015363072"
+          ]
+        },
+        "author_id": "1914573883430330368",
+        "conversation_id": "1950956497766134027",
+        "created_at": "2025-07-31T16:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T17:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950956497766134027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7zMfF1JZs",
+              "end": 163,
+              "expanded_url": "https://x.com/beccakiko/status/1950956497766134027/photo/1",
+              "media_key": "3_1950956490006941696",
+              "start": 140,
+              "url": "https://t.co/j7zMfF1JZs"
+            },
+            {
+              "display_url": "pic.x.com/j7zMfF1JZs",
+              "end": 163,
+              "expanded_url": "https://x.com/beccakiko/status/1950956497766134027/photo/1",
+              "media_key": "3_1950956490023645184",
+              "start": 140,
+              "url": "https://t.co/j7zMfF1JZs"
+            },
+            {
+              "display_url": "pic.x.com/j7zMfF1JZs",
+              "end": 163,
+              "expanded_url": "https://x.com/beccakiko/status/1950956497766134027/photo/1",
+              "media_key": "3_1950956490015363072",
+              "start": 140,
+              "url": "https://t.co/j7zMfF1JZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950956497766134027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🎉 希子迟来的2wfo抽奖来啦！～ 🎉\n感谢各位对希子的支持希子才能走到今天～\r\n🛎️ 参与方式：\n关注＋点赞＋转发+评论区留言\r\n🥇 一等奖1名：泉此方红白过膝袜 普拉娜黑丝连裤 日奈泳装泳衣三选一 （如果不喜欢可以替换为一张私密写真）\n\n🥈 二等奖2名：剩下的两件一人一条\n\n🥉 三等奖3名：3个免门槛加好友资格\r\r期限为3天，届时希子会用随机抽奖器进行抽奖 全程随机无黑幕～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 11485,
+          "like_count": 237,
+          "quote_count": 0,
+          "reply_count": 135,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "🎉 希子迟来的2wfo抽奖来啦！～ 🎉\n感谢各位对希子的支持希子才能走到今天～\n🛎️ 参与方式：\n关注＋点赞＋转发+评论区留言\n🥇 一等奖1名：泉此方红白过膝袜 普拉娜黑丝连裤 日奈泳装泳衣三选一 （如果不喜欢可以替换为一张私密写真）\n\n🥈 二等奖2名：剩下的两件一人一条\n\n🥉 https://t.co/j7zMfF1JZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "",
+        "id": "1775846129243942912",
+        "name": "结梗晚安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939984408842248192/8x-c2J_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T06:56:10.000Z",
+        "description": "关闭评论区是推广真假自辨 🚪52 我是女生不是男娘 不要再私信问我性别了 我只有这一个号 其他号都是假的 私信问问题前最好先付门槛 不然应该不会回嘟 扩列先给门槛 美女可以找我互关i’m Becca from China, 5’2’’, 94 lb. I can read and write in English.",
+        "id": "1914573883430330368",
+        "location": "Deep in your mind",
+        "name": "朝花希拾",
+        "pinned_tweet_id": "1950836892745842819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935649215092285440/7BRRN-IA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24579,
+          "following_count": 103,
+          "like_count": 1172,
+          "listed_count": 85,
+          "media_count": 78,
+          "tweet_count": 625
+        },
+        "username": "beccakiko",
+        "verified": true
+      }
+    ]
+  }
+}

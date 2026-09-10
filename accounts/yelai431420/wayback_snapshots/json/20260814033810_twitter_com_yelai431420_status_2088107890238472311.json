@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2088107890238472311",
+    "created_at": "2026-08-14T03:38:10.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088107890238472311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhi_cheng233/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/zhi_cheng233/status/2088026371671093456",
+          "start": 46,
+          "url": "https://t.co/ThNapwOEWh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088107890238472311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088026371671093456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你也闹麻了，我跟这件事有半毛钱关系吗就给我挂上了。是不是要把三角枫有关的所有人都挂一遍啊😅 https://t.co/ThNapwOEWh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_2088026336220598272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoo49QW0AAOYfI.jpg",
+        "width": 1270
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2088026342361051136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoo5UIWsAAVMwg.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2653,
+        "media_key": "3_2088026353756930048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoo5-lWAAANAF-.jpg",
+        "width": 1271
+      },
+      {
+        "height": 1507,
+        "media_key": "3_2088026364767006721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoo6nmWcAEL3MY.jpg",
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2088107890238472311",
+        "created_at": "2026-08-14T03:38:10.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088107890238472311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhi_cheng233/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/zhi_cheng233/status/2088026371671093456",
+              "start": 46,
+              "url": "https://t.co/ThNapwOEWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088107890238472311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088026371671093456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你也闹麻了，我跟这件事有半毛钱关系吗就给我挂上了。是不是要把三角枫有关的所有人都挂一遍啊😅 https://t.co/ThNapwOEWh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088026336220598272",
+            "3_2088026342361051136",
+            "3_2088026353756930048",
+            "3_2088026364767006721"
+          ]
+        },
+        "author_id": "1550811468009963521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2088026371671093456",
+        "created_at": "2026-08-13T22:14:15.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T23:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088026371671093456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "3.Google",
+              "end": 117,
+              "expanded_url": "https://3.Google",
+              "start": 94,
+              "unwound_url": "https://3.Google",
+              "url": "https://t.co/kRsSWMLKKJ"
+            },
+            {
+              "display_url": "pic.x.com/9XdNkQJyqe",
+              "end": 159,
+              "expanded_url": "https://x.com/zhi_cheng233/status/2088026371671093456/photo/1",
+              "media_key": "3_2088026336220598272",
+              "start": 136,
+              "url": "https://t.co/9XdNkQJyqe"
+            },
+            {
+              "display_url": "pic.x.com/9XdNkQJyqe",
+              "end": 159,
+              "expanded_url": "https://x.com/zhi_cheng233/status/2088026371671093456/photo/1",
+              "media_key": "3_2088026342361051136",
+              "start": 136,
+              "url": "https://t.co/9XdNkQJyqe"
+            },
+            {
+              "display_url": "pic.x.com/9XdNkQJyqe",
+              "end": 159,
+              "expanded_url": "https://x.com/zhi_cheng233/status/2088026371671093456/photo/1",
+              "media_key": "3_2088026353756930048",
+              "start": 136,
+              "url": "https://t.co/9XdNkQJyqe"
+            },
+            {
+              "display_url": "pic.x.com/9XdNkQJyqe",
+              "end": 159,
+              "expanded_url": "https://x.com/zhi_cheng233/status/2088026371671093456/photo/1",
+              "media_key": "3_2088026364767006721",
+              "start": 136,
+              "url": "https://t.co/9XdNkQJyqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088026371671093456",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088026336220598272"
+          },
+          {
+            "media_key": "3_2088026342361051136"
+          },
+          {
+            "media_key": "3_2088026353756930048"
+          },
+          {
+            "media_key": "3_2088026364767006721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "3.Google",
+                "end": 117,
+                "expanded_url": "http://3.Google",
+                "start": 94,
+                "url": "https://t.co/fZxeqcYwAw"
+              }
+            ]
+          },
+          "text": "最近上海那件事真的是闹麻了\n传得天花乱坠\n结合咱拿到信源整理一下\n1.视频里施害者与受害者均是trans，非网传trans捅顺直\n2.受害者与施害者朋友（视频拍摄者）均说明受害者没有偷拍\nhttps://t.co/fZxeqcYwAw Developer 袋子是受害者的\n4.施害者是Oder，但没有足够证据证明在事发前8h使用普瑞巴林/加巴喷丁/或其他药物，据受害者描述施害者承认自己喝了酒\n5.据受害者描述在场当事人并非全部看乐子\n6.施害者目前最该担心的是违反药品管理法第115条，售卖列管药品"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1222,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近上海那件事真的是闹麻了\n传得天花乱坠\n结合咱拿到信源整理一下\n1.视频里施害者与受害者均是trans，非网传trans捅顺直\n2.受害者与施害者朋友（视频拍摄者）均说明受害者没有偷拍\nhttps://t.co/kRsSWMLKKJ Developer 袋子是受害者的 https://t.co/9XdNkQJyqe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊/爱人TV幸存者/消极自由/https://t.co/7qeRebFYWx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 39,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 16,
+                "url": "https://t.co/7qeRebFYWx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "岛",
+        "most_recent_tweet_id": "2088107890238472311",
+        "name": "yella plastic～#天仓五🍡",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 341,
+          "like_count": 3517,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "🚪88-所有命运的馈赠早已在暗中标注好了价格-/06年🍥/INFP-T/全栈开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4Ojzo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 125,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 102,
+                "url": "https://t.co/1UTMj4Ojzo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8FktvQ"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "is_identity_verified": false,
+        "location": "广东 IP归属:CLOUDFLARE",
+        "most_recent_tweet_id": "2088039168538447932",
+        "name": "志成",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550811468009963521/1684569210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748573606412288/Brv5JHcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 925,
+          "like_count": 8844,
+          "listed_count": 5,
+          "media_count": 565,
+          "tweet_count": 3946
+        },
+        "url": "https://t.co/t9zy8FktvQ",
+        "username": "zhi_cheng233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

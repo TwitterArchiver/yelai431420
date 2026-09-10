@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2061489289272455213",
+    "created_at": "2026-06-01T16:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061492775623991729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053347682958426112",
+          "start": 0,
+          "username": "LunaticImbecile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061492775623991729",
+    "in_reply_to_user_id": "2053347682958426112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061489289272455213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LunaticImbecile 替谁问的😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2061489289272455213",
+        "created_at": "2026-06-01T16:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061492775623991729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053347682958426112",
+              "start": 0,
+              "username": "LunaticImbecile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061492775623991729",
+        "in_reply_to_user_id": "2053347682958426112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061489289272455213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LunaticImbecile 替谁问的😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053347682958426112",
+        "conversation_id": "2061489289272455213",
+        "created_at": "2026-06-01T16:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061489289272455213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061489289272455213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有福建或附近省份精神病院开放/半开放病房住院推荐？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kyoto, Kyōto, Japan",
+              "geo": {
+                "coordinates": [
+                  135.75385,
+                  35.02107
+                ],
+                "type": "Point"
+              },
+              "locality": "Kyoto",
+              "region": "Kyōto"
+            }
+          ]
+        },
+        "description": "overdose///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr     \n/https://t.co/UPvoVUe8n6金主:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 47,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 24,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yalai60817",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yalai60817",
+                "start": 54,
+                "url": "https://t.co/UPvoVUe8n6"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 155,
+          "like_count": 1268,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 336
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T05:46:46.000Z",
+        "description": "ASD/ADHD/MDD/GAD/OCD\n朕是小皇帝，你喜欢朕=朕喜欢你\n朕的皇后@yelai431420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "yelai431420"
+              }
+            ]
+          }
+        },
+        "id": "2053347682958426112",
+        "name": "精神病之皇（抑郁发作崩溃割手中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053724039672430592/-YOpu2jK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 50,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 28
+        },
+        "username": "LunaticImbecile",
+        "verified": false
+      }
+    ]
+  }
+}

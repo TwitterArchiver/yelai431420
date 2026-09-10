@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057030005658669056"
+      ],
+      "media_source_tweet_id": [
+        "2057030438477332643"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057752668920291719",
+    "created_at": "2026-05-22T09:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057752668920291719"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 61,
+          "tag": "yakui_the_maid"
+        },
+        {
+          "end": 83,
+          "start": 77,
+          "tag": "yakui"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1393471785471942656",
+          "start": 3,
+          "username": "Fox_Kikumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CoVOv6EZMp",
+          "end": 108,
+          "expanded_url": "https://x.com/Fox_Kikumi/status/2057030438477332643/video/1",
+          "media_key": "13_2057030005658669056",
+          "start": 85,
+          "url": "https://t.co/CoVOv6EZMp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057752668920291719",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1500
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057030438477332643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Kikumi: 「💜Don't let yourself sink into illusions」\n  [#yakui_the_maid #yakui] https://t.co/CoVOv6EZMp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15066,
+        "height": 720,
+        "media_key": "13_2057030005658669056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057030005658669056/img/n6hfhN7-OG5oPHwn.jpg",
+        "public_metrics": {
+          "view_count": 44903
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057030005658669056/vid/avc1/320x320/zunfaWrBklAf2V08.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057030005658669056/vid/avc1/540x540/8CM6fDqMNWwoI7T_.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057030005658669056/vid/avc1/720x720/R8mjoBMbXNpE6n7P.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057030005658669056/pl/LzVQU2UKAEQLpIWk.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 15066,
+        "height": 720,
+        "media_key": "13_2057030005658669056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057030005658669056/img/n6hfhN7-OG5oPHwn.jpg",
+        "public_metrics": {
+          "view_count": 44916
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057030005658669056/vid/avc1/320x320/zunfaWrBklAf2V08.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057030005658669056/vid/avc1/540x540/8CM6fDqMNWwoI7T_.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057030005658669056/vid/avc1/720x720/R8mjoBMbXNpE6n7P.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057030005658669056/pl/LzVQU2UKAEQLpIWk.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057030005658669056"
+          ],
+          "media_source_tweet_id": [
+            "2057030438477332643"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057752668920291719",
+        "created_at": "2026-05-22T09:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057752668920291719"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 61,
+              "tag": "yakui_the_maid"
+            },
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "yakui"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1393471785471942656",
+              "start": 3,
+              "username": "Fox_Kikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoVOv6EZMp",
+              "end": 108,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2057030438477332643/video/1",
+              "media_key": "13_2057030005658669056",
+              "start": 85,
+              "url": "https://t.co/CoVOv6EZMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057752668920291719",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1500
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057030438477332643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Kikumi: 「💜Don't let yourself sink into illusions」\n  [#yakui_the_maid #yakui] https://t.co/CoVOv6EZMp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057030005658669056"
+          ]
+        },
+        "author_id": "1393471785471942656",
+        "conversation_id": "2057030438477332643",
+        "created_at": "2026-05-20T09:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057030438477332643"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 45,
+              "tag": "yakui_the_maid"
+            },
+            {
+              "end": 67,
+              "start": 61,
+              "tag": "yakui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoVOv6EZMp",
+              "end": 92,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2057030438477332643/video/1",
+              "media_key": "13_2057030005658669056",
+              "start": 69,
+              "url": "https://t.co/CoVOv6EZMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057030438477332643",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2549,
+          "impression_count": 132353,
+          "like_count": 9881,
+          "quote_count": 24,
+          "reply_count": 14,
+          "retweet_count": 1500
+        },
+        "reply_settings": "everyone",
+        "text": "「💜Don't let yourself sink into illusions」\n  [#yakui_the_maid #yakui] https://t.co/CoVOv6EZMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kyoto, Kyōto, Japan",
+              "geo": {
+                "coordinates": [
+                  135.75385,
+                  35.02107
+                ],
+                "type": "Point"
+              },
+              "locality": "Kyoto",
+              "region": "Kyōto"
+            }
+          ]
+        },
+        "description": "overdose///爱人TV幸存者/消极自由/touhou\n/https://t.co/yiPFTgfmTr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 55,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 32,
+                "url": "https://t.co/yiPFTgfmTr"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 113,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 271
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T07:42:30.000Z",
+        "description": "#苦米 /Kumi￤🎨 Illustration & Animation￤中文￤依赖于翻译器￤联络DM /📩foxkikumi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "苦米"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/HfKKMSw",
+                "end": 23,
+                "expanded_url": "https://b23.tv/HfKKMSw",
+                "start": 0,
+                "url": "https://t.co/adZh2cyd96"
+              }
+            ]
+          }
+        },
+        "id": "1393471785471942656",
+        "location": "(´,,•ω•,,)  bilibili➡️",
+        "name": "苦米( ˙꒳˙ )",
+        "pinned_tweet_id": "1829182660385886650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045708311782453248/dWqKOUXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8718,
+          "following_count": 1013,
+          "like_count": 20021,
+          "listed_count": 38,
+          "media_count": 472,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/adZh2cyd96",
+        "username": "Fox_Kikumi",
+        "verified": false
+      }
+    ]
+  }
+}

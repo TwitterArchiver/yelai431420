@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2001435455376818571",
+    "created_at": "2025-12-18T00:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T01:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001444084628816026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001444084628816026",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001435455376818571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 两片阿普唑仑就能瞬间让我的痛苦消失😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2001435455376818571",
+        "created_at": "2025-12-18T00:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T01:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001444084628816026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001444084628816026",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001435455376818571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 两片阿普唑仑就能瞬间让我的痛苦消失😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545898408858161154",
+        "conversation_id": "2001435455376818571",
+        "created_at": "2025-12-17T23:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T00:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001435455376818571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001435455376818571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃这个byd阿普唑仑吃的我脑子空空对时间没啥概念了\n睡一晚上没上线=不知道过去了几天没上线，不知道过去的是白天还是晚上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "od/电子游戏/阴暗比/爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998378370934206464/0z96ZbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 66,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 116
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "【锁推只是防止被推送出去，突然关注人=我喜欢你的内容！】你的互联网邻居橘猫｜18｜欢迎互关喵｜｜成分是：🏳️‍🌈🏳️‍⚧️💛🤍💜🖤#drugtwt #od #nonbinary #transmasc｜纯碎碎念和看中推用的｜英文圈+画画大号@StrawberryC208 ｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "od"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "tag": "transmasc"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them/猫/喵｜💉2025.8.25",
+        "name": "🐱",
+        "pinned_tweet_id": "1988250233873330540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984325946498039810/TY9VUb41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 809,
+          "like_count": 1645,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 1453
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2017699273169850564",
+    "created_at": "2026-01-31T20:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T21:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017699273169850564"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017699273169850564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "会过日子的，白兔o完瓶子还能挂闲鱼上卖25块钱说是主播女孩重度依赖周边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2017699273169850564",
+        "created_at": "2026-01-31T20:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T21:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017699273169850564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017699273169850564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会过日子的，白兔o完瓶子还能挂闲鱼上卖25块钱说是主播女孩重度依赖周边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose/电子游戏//爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 96,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 230
+        },
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

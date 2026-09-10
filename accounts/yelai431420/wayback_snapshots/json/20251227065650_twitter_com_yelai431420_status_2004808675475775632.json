@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2004808675475775632",
+    "created_at": "2025-12-27T06:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004808675475775632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miren_41319/st…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/miren_41319/status/2001589889406791702",
+          "start": 87,
+          "url": "https://t.co/V7HE6Wmfiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004808675475775632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001589889406791702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼，嘴一张就开始喷粪了。就是因为你们条子腐败不作为才造成这么多悲剧。现在还能大言不惭的否定别人的苦难了。动了你们垃圾条子的蛋糕了，和虐待非法拘禁人的机构合作肯定分不少钱吧 https://t.co/V7HE6Wmfiu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2004808675475775632",
+        "created_at": "2025-12-27T06:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004808675475775632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miren_41319/st…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/miren_41319/status/2001589889406791702",
+              "start": 87,
+              "url": "https://t.co/V7HE6Wmfiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004808675475775632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001589889406791702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼，嘴一张就开始喷粪了。就是因为你们条子腐败不作为才造成这么多悲剧。现在还能大言不惭的否定别人的苦难了。动了你们垃圾条子的蛋糕了，和虐待非法拘禁人的机构合作肯定分不少钱吧 https://t.co/V7HE6Wmfiu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167765353415487488",
+        "conversation_id": "2001491034547904875",
+        "created_at": "2025-12-18T09:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001589889406791702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001589889406791702",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 49975,
+          "like_count": 52,
+          "quote_count": 21,
+          "reply_count": 68,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001491034547904875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 沙碧，又开始造谣了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose/电子游戏//爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998378370934206464/0z96ZbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 81,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 168
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T11:45:52.000Z",
+        "description": "119",
+        "id": "1167765353415487488",
+        "location": "北京市",
+        "name": "迷人的小红",
+        "pinned_tweet_id": "2004354034623565882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396714942443655170/UO8JduEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218647,
+          "following_count": 6315,
+          "like_count": 200151,
+          "listed_count": 398,
+          "media_count": 13912,
+          "tweet_count": 147825
+        },
+        "username": "miren_41319",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061718572653850624"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "conversation_id": "2061718580933378072",
+    "created_at": "2026-06-02T07:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061718580933378072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J7fH2opJ4E",
+          "end": 76,
+          "expanded_url": "https://x.com/yelai431420/status/2061718580933378072/photo/1",
+          "media_key": "3_2061718572653850624",
+          "start": 53,
+          "url": "https://t.co/J7fH2opJ4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061718580933378072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃完了这个菲尼布特。。？我成了喜怒无常的后苏联老毛子。。。和我的爱人永别了了？!.....。。。草你吗的 https://t.co/J7fH2opJ4E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2061718572653850624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyyHk3bsAAc0nK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061718572653850624"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2061718580933378072",
+        "created_at": "2026-06-02T07:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061718580933378072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7fH2opJ4E",
+              "end": 76,
+              "expanded_url": "https://x.com/yelai431420/status/2061718580933378072/photo/1",
+              "media_key": "3_2061718572653850624",
+              "start": 53,
+              "url": "https://t.co/J7fH2opJ4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061718580933378072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完了这个菲尼布特。。？我成了喜怒无常的后苏联老毛子。。。和我的爱人永别了了？!.....。。。草你吗的 https://t.co/J7fH2opJ4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr     \n/https://t.co/UPvoVUe8n6金主:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 47,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 24,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yalai60817",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yalai60817",
+                "start": 54,
+                "url": "https://t.co/UPvoVUe8n6"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "漫漫长路到蒂珀雷里",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 156,
+          "like_count": 1272,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 338
+        },
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

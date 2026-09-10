@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087071679491219456",
+        "3_2087071679680073728"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2087071688559341721",
+    "created_at": "2026-08-11T07:00:41.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087071688559341721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8mvBPGBsw",
+          "end": 27,
+          "expanded_url": "https://x.com/yelai431420/status/2087071688559341721/photo/1",
+          "media_key": "3_2087071679491219456",
+          "start": 4,
+          "url": "https://t.co/a8mvBPGBsw"
+        },
+        {
+          "display_url": "pic.x.com/a8mvBPGBsw",
+          "end": 27,
+          "expanded_url": "https://x.com/yelai431420/status/2087071688559341721/photo/1",
+          "media_key": "3_2087071679680073728",
+          "start": 4,
+          "url": "https://t.co/a8mvBPGBsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087071688559341721",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087071679491219456"
+      },
+      {
+        "media_key": "3_2087071679680073728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "藏盒烟 https://t.co/a8mvBPGBsw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087071679491219456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbEonzaIAAfIkk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087071679680073728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbEoogb0AAD5pR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087071679491219456",
+            "3_2087071679680073728"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087071688559341721",
+        "created_at": "2026-08-11T07:00:41.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087071688559341721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8mvBPGBsw",
+              "end": 27,
+              "expanded_url": "https://x.com/yelai431420/status/2087071688559341721/photo/1",
+              "media_key": "3_2087071679491219456",
+              "start": 4,
+              "url": "https://t.co/a8mvBPGBsw"
+            },
+            {
+              "display_url": "pic.x.com/a8mvBPGBsw",
+              "end": 27,
+              "expanded_url": "https://x.com/yelai431420/status/2087071688559341721/photo/1",
+              "media_key": "3_2087071679680073728",
+              "start": 4,
+              "url": "https://t.co/a8mvBPGBsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087071688559341721",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087071679491219456"
+          },
+          {
+            "media_key": "3_2087071679680073728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "藏盒烟 https://t.co/a8mvBPGBsw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊/爱人TV幸存者/消极自由/https://t.co/7qeRebFYWx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 39,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 16,
+                "url": "https://t.co/7qeRebFYWx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "岛",
+        "most_recent_tweet_id": "2087071688559341721",
+        "name": "yella plastic～#天仓五🍡",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 342,
+          "like_count": 3450,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998668798979973120"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "conversation_id": "1998668808333259257",
+    "created_at": "2025-12-10T08:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998668808333259257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 36,
+          "id": "1596683339691270144",
+          "start": 22,
+          "username": "ItsukiMayLike"
+        },
+        {
+          "end": 49,
+          "id": "1803673878461317120",
+          "start": 37,
+          "username": "yujue221412"
+        },
+        {
+          "end": 64,
+          "id": "1868203874726887424",
+          "start": 56,
+          "username": "daozhir"
+        },
+        {
+          "end": 82,
+          "id": "1974688655513096192",
+          "start": 71,
+          "username": "lin_dialog"
+        },
+        {
+          "end": 93,
+          "id": "1830472369867231232",
+          "start": 83,
+          "username": "kill1011_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 121,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1997466543241011200/epyTbHc3?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1997466543241011200/epyTbHc3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 98,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/vpjiJnyb6d"
+        },
+        {
+          "display_url": "pic.x.com/5diNNZ0wcG",
+          "end": 145,
+          "expanded_url": "https://x.com/yelai431420/status/1998668808333259257/photo/1",
+          "media_key": "3_1998668798979973120",
+          "start": 122,
+          "url": "https://t.co/5diNNZ0wcG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998668808333259257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @ItsukiMayLike @yujue221412\n👰 配偶: @daozhir\n👶 孩子: @lin_dialog @kill1011_\n\n➡️ https://t.co/vpjiJnyb6d https://t.co/5diNNZ0wcG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1998668798979973120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7yyrurboAAR_Z7.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998668798979973120"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "1998668808333259257",
+        "created_at": "2025-12-10T08:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998668808333259257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1596683339691270144",
+              "start": 22,
+              "username": "ItsukiMayLike"
+            },
+            {
+              "end": 49,
+              "id": "1803673878461317120",
+              "start": 37,
+              "username": "yujue221412"
+            },
+            {
+              "end": 64,
+              "id": "1868203874726887424",
+              "start": 56,
+              "username": "daozhir"
+            },
+            {
+              "end": 82,
+              "id": "1974688655513096192",
+              "start": 71,
+              "username": "lin_dialog"
+            },
+            {
+              "end": 93,
+              "id": "1830472369867231232",
+              "start": 83,
+              "username": "kill1011_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 121,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1997466543241011200/epyTbHc3?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997466543241011200/epyTbHc3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/vpjiJnyb6d"
+            },
+            {
+              "display_url": "pic.x.com/5diNNZ0wcG",
+              "end": 145,
+              "expanded_url": "https://x.com/yelai431420/status/1998668808333259257/photo/1",
+              "media_key": "3_1998668798979973120",
+              "start": 122,
+              "url": "https://t.co/5diNNZ0wcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998668808333259257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @ItsukiMayLike @yujue221412\n👰 配偶: @daozhir\n👶 孩子: @lin_dialog @kill1011_\n\n➡️ https://t.co/vpjiJnyb6d https://t.co/5diNNZ0wcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "od/电子游戏/阴暗比/爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998378370934206464/0z96ZbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 76
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T01:52:32.000Z",
+        "description": "🉑扩列 求互fo",
+        "id": "1596683339691270144",
+        "location": "重庆",
+        "name": "一拳打爆狗头🐏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949322972990185472/kxFj_KSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 36,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "ItsukiMayLike",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T06:19:09.000Z",
+        "description": "蔑视生命的欢色颂",
+        "id": "1803673878461317120",
+        "location": "神人大药罐死母精神病院",
+        "name": "御杰喵喵酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991085343370563584/pOoiSmPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 67,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 118
+        },
+        "username": "yujue221412",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "叫我小倒就好丨16岁丨lesbian丨overdose丨精神疾病患者丨情绪极度不稳定丨LGBTQ+全友好🏳️‍🌈 丨 只fo同类丨 sub丨0 丨欢迎找我聊聊天丨请多关照",
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "我活着，无声的淌血",
+        "pinned_tweet_id": "1988931748185645459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 343,
+          "like_count": 1066,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 584
+        },
+        "username": "daozhir",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.7 (o^^o) ♡｜need more moots!｜抽烟喝酒自残od｜非二元性别｜朋克摇滚 哲学 小说爱好者｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信我 只fo同类! 健全勿扰",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1993204221223879044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997881852657549312/35b--OQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 172,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 821
+        },
+        "username": "lin_dialog",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T05:06:49.000Z",
+        "description": "没那么脆弱",
+        "id": "1830472369867231232",
+        "location": "地狱",
+        "name": "kill",
+        "pinned_tweet_id": "1928496974208049556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997695017717223425/ia4tesK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 40,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 501
+        },
+        "username": "kill1011_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990501834394632192"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990501837393572286",
+    "created_at": "2025-11-17T19:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T20:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990501837393572286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CKi9WyYWBQ",
+          "end": 25,
+          "expanded_url": "https://x.com/yelai431420/status/1990501837393572286/photo/1",
+          "media_key": "3_1990501834394632192",
+          "start": 2,
+          "url": "https://t.co/CKi9WyYWBQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990501837393572286",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😢 https://t.co/CKi9WyYWBQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990501834394632192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-u30vbAAAYVEB.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990501834394632192"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990501837393572286",
+        "created_at": "2025-11-17T19:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T20:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990501837393572286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKi9WyYWBQ",
+              "end": 25,
+              "expanded_url": "https://x.com/yelai431420/status/1990501837393572286/photo/1",
+              "media_key": "3_1990501834394632192",
+              "start": 2,
+              "url": "https://t.co/CKi9WyYWBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990501837393572286",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/CKi9WyYWBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "",
+        "id": "1775846129243942912",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939984408842248192/8x-c2J_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 27,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

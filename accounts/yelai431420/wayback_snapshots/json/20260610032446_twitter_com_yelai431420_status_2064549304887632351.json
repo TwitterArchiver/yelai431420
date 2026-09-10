@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2064549304887632351",
+    "created_at": "2026-06-10T03:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064549304887632351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seeFvn/status/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/seeFvn/status/2064477614023283175",
+          "start": 30,
+          "url": "https://t.co/wEmkEHs5Pd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064549304887632351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064477614023283175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "菲尼布特滥用者：钢铁肠胃\n克利/美洛加巴林滥用者：换算大师 https://t.co/wEmkEHs5Pd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2064549304887632351",
+        "created_at": "2026-06-10T03:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064549304887632351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/seeFvn/status/2064477614023283175",
+              "start": 30,
+              "url": "https://t.co/wEmkEHs5Pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064549304887632351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064477614023283175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "菲尼布特滥用者：钢铁肠胃\n克利/美洛加巴林滥用者：换算大师 https://t.co/wEmkEHs5Pd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2064477614023283175",
+        "created_at": "2026-06-09T22:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064477614023283175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064477614023283175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林滥用者：抗饿\n加巴喷丁滥用者：时间管理大师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr /https://t.co/7qeRebGwM5\n金主:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 47,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 24,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 72,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 49,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "漫漫长路到蒂珀雷里",
+        "name": "yalai～🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 166,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 365
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "UK🇬🇧🇪🇺🇹🇼🇺🇸\nEN 学习中/國語 OK\nabuse/不太見證/药理 OK/DXM&PGB 了解深度/",
+        "id": "1980612830824132609",
+        "name": "foes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 657,
+          "like_count": 4317,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1495
+        },
+        "username": "seeFvn",
+        "verified": true
+      }
+    ]
+  }
+}

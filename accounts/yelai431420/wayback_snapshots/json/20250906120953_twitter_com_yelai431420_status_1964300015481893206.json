@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "1963665135224176804",
+    "created_at": "2025-09-06T12:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T13:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964300015481893206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1834843591329697792",
+          "start": 0,
+          "username": "kkscc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964300015481893206",
+    "in_reply_to_user_id": "1834843591329697792",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963665135224176804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkscc_ 17"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "1963665135224176804",
+        "created_at": "2025-09-06T12:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T13:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964300015481893206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1834843591329697792",
+              "start": 0,
+              "username": "kkscc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964300015481893206",
+        "in_reply_to_user_id": "1834843591329697792",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963665135224176804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkscc_ 17"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834843591329697792",
+        "conversation_id": "1963665135224176804",
+        "created_at": "2025-09-04T18:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T19:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963665135224176804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963665135224176804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 624177,
+          "like_count": 1405,
+          "quote_count": 20,
+          "reply_count": 673,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "你们的第一次是几岁啊？？你们的第一次是几岁啊？？你们的第一次是几岁啊？？你们的第一次是几岁啊？？你们的第一次是几岁啊？？你们的第一次是几岁啊？？你们的第一次是几岁啊？？你们的第一次是几岁啊？？你们的第一次是几岁啊？？你们的第一次是几岁啊？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "",
+        "id": "1775846129243942912",
+        "name": "结梗晚安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939984408842248192/8x-c2J_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T06:36:23.000Z",
+        "description": "玩推只想发泄另一面情绪/展示不一样的自己/推特仅此一个号被骗别找我！",
+        "id": "1834843591329697792",
+        "location": "深圳必吃榜       ",
+        "name": "kk",
+        "pinned_tweet_id": "1963251611486044365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861558445096468480/NfgPZerA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81423,
+          "following_count": 84,
+          "like_count": 2383,
+          "listed_count": 217,
+          "media_count": 73,
+          "tweet_count": 1940
+        },
+        "username": "kkscc_",
+        "verified": false
+      }
+    ]
+  }
+}

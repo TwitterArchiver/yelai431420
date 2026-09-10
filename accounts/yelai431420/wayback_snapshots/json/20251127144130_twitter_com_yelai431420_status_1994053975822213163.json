@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "1993502005952970865",
+    "created_at": "2025-11-27T14:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994053975822213163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535798118314147840",
+          "start": 0,
+          "username": "creation_hy64"
+        },
+        {
+          "end": 23,
+          "id": "1868203874726887424",
+          "start": 15,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994053975822213163",
+    "in_reply_to_user_id": "1535798118314147840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993672664146419790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@creation_hy64 @daozhir 我开唑吡坦还有冷却时间，隔28天才能开一次阿普唑仑随便开😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "1993502005952970865",
+        "created_at": "2025-11-27T14:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994053975822213163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535798118314147840",
+              "start": 0,
+              "username": "creation_hy64"
+            },
+            {
+              "end": 23,
+              "id": "1868203874726887424",
+              "start": 15,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994053975822213163",
+        "in_reply_to_user_id": "1535798118314147840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993672664146419790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@creation_hy64 @daozhir 我开唑吡坦还有冷却时间，隔28天才能开一次阿普唑仑随便开😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535798118314147840",
+        "conversation_id": "1993502005952970865",
+        "created_at": "2025-11-26T13:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993672664146419790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993672664146419790",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993502005952970865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir 总觉得中国唑吡坦管的比阿普唑仑都严多了，明明阿普唑仑成瘾性和滥用价值都比唑吡坦高无数倍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "",
+        "id": "1775846129243942912",
+        "location": "南京",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939984408842248192/8x-c2J_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 33,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T01:36:44.000Z",
+        "description": "2009",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "creation-hy.com",
+                "end": 23,
+                "expanded_url": "https://www.creation-hy.com",
+                "start": 0,
+                "url": "https://t.co/CVyQUpT4mw"
+              }
+            ]
+          }
+        },
+        "id": "1535798118314147840",
+        "name": "creation_hy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984380662011609090/WpMG_XYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 13,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/CVyQUpT4mw",
+        "username": "creation_hy64",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "叫我小倒就好丨16岁丨lesbian丨overdose丨精神疾病患者丨LGBTQ+全友好🏳️‍🌈 丨 只fo同类丨 sub丨0 丨欢迎找我聊聊天丨请多关照",
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "我活着，无声的淌血",
+        "pinned_tweet_id": "1988931748185645459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 327,
+          "like_count": 972,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 490
+        },
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2000514458763042826",
+    "created_at": "2025-12-15T13:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T14:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000555279675687270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1921834682544713728",
+          "start": 0,
+          "username": "tree27666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000555279675687270",
+    "in_reply_to_user_id": "1921834682544713728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000514458763042826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tree27666 白兔日版右美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2000514458763042826",
+        "created_at": "2025-12-15T13:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000555279675687270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1921834682544713728",
+              "start": 0,
+              "username": "tree27666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000555279675687270",
+        "in_reply_to_user_id": "1921834682544713728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000514458763042826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tree27666 白兔日版右美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921834682544713728",
+        "conversation_id": "2000514458763042826",
+        "created_at": "2025-12-15T10:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000514458763042826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000514458763042826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞如果禁了还能o啥啊 好恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "od/电子游戏/阴暗比/爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998378370934206464/0z96ZbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 61,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 103
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:48:00.000Z",
+        "description": "一个很烂的人🍂｜les0.9｜istp｜LGBTQ+友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%B6%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%B6%E5%AD%9023746",
+                "start": 0,
+                "url": "https://t.co/lAutvuiyVv"
+              }
+            ]
+          }
+        },
+        "id": "1921834682544713728",
+        "name": "叶子",
+        "pinned_tweet_id": "1989681857407922433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970727729512546304/HVBQbYIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 38,
+          "like_count": 1860,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/lAutvuiyVv",
+        "username": "tree27666",
+        "verified": false
+      }
+    ]
+  }
+}

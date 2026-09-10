@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "1998951948758950388",
+    "created_at": "2025-12-13T21:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T22:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999955720260010176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899144209558454272",
+          "start": 0,
+          "username": "GoE66scn9hfF4tl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999955720260010176",
+    "in_reply_to_user_id": "899144209558454272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999879801298100725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoE66scn9hfF4tl 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "1998951948758950388",
+        "created_at": "2025-12-13T21:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T22:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999955720260010176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899144209558454272",
+              "start": 0,
+              "username": "GoE66scn9hfF4tl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999955720260010176",
+        "in_reply_to_user_id": "899144209558454272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999879801298100725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoE66scn9hfF4tl 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899144209558454272",
+        "conversation_id": "1998951948758950388",
+        "created_at": "2025-12-13T16:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999879801298100725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775846129243942912",
+              "start": 0,
+              "username": "yelai431420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999879801298100725",
+        "in_reply_to_user_id": "1775846129243942912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998951948758950388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yelai431420 我想和你交朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "od/电子游戏/阴暗比/爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998378370934206464/0z96ZbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 55,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 87
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-20T05:40:59.000Z",
+        "description": "来到这里吧，我将帮助你们获得这个世界",
+        "id": "899144209558454272",
+        "location": "中华人民共和国",
+        "name": "温柔的南瓜灯不想在月光下悲伤",
+        "pinned_tweet_id": "1284663361238560770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510971118009552896/KlWy4jWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 6696,
+          "like_count": 43108,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 460
+        },
+        "username": "GoE66scn9hfF4tl",
+        "verified": false
+      }
+    ]
+  }
+}

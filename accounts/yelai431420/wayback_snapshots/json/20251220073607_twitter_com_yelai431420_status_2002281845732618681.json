@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001882181749346306"
+      ],
+      "media_source_tweet_id": [
+        "2001882186149212662"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "conversation_id": "2002281845732618681",
+    "created_at": "2025-12-20T07:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T08:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002281845732618681"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "吉祥寺駅",
+          "probability": 0.8334,
+          "start": 17,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1733433351485390848",
+          "start": 3,
+          "username": "yutaka_bot2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NVG8XSL5oA",
+          "end": 65,
+          "expanded_url": "https://x.com/yutaka_bot2/status/2001882186149212662/photo/1",
+          "media_key": "3_2001882181749346306",
+          "start": 42,
+          "url": "https://t.co/NVG8XSL5oA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002281845732618681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 591
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001882186149212662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yutaka_bot2: 吉祥寺駅の男性用トイレ、やばいことなってるんやが https://t.co/NVG8XSL5oA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1291,
+        "media_key": "3_2001882181749346306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gdPOVakAIMk1p.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001882181749346306"
+          ],
+          "media_source_tweet_id": [
+            "2001882186149212662"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2002281845732618681",
+        "created_at": "2025-12-20T07:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002281845732618681"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "吉祥寺駅",
+              "probability": 0.8334,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1733433351485390848",
+              "start": 3,
+              "username": "yutaka_bot2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVG8XSL5oA",
+              "end": 65,
+              "expanded_url": "https://x.com/yutaka_bot2/status/2001882186149212662/photo/1",
+              "media_key": "3_2001882181749346306",
+              "start": 42,
+              "url": "https://t.co/NVG8XSL5oA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002281845732618681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 591
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001882186149212662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yutaka_bot2: 吉祥寺駅の男性用トイレ、やばいことなってるんやが https://t.co/NVG8XSL5oA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001882181749346306"
+          ]
+        },
+        "author_id": "1733433351485390848",
+        "conversation_id": "2001882186149212662",
+        "created_at": "2025-12-19T05:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001882186149212662"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "吉祥寺駅",
+              "probability": 0.7822,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVG8XSL5oA",
+              "end": 48,
+              "expanded_url": "https://x.com/yutaka_bot2/status/2001882186149212662/photo/1",
+              "media_key": "3_2001882181749346306",
+              "start": 25,
+              "url": "https://t.co/NVG8XSL5oA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001882186149212662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1221,
+          "impression_count": 9343089,
+          "like_count": 10542,
+          "quote_count": 282,
+          "reply_count": 417,
+          "retweet_count": 591
+        },
+        "reply_settings": "everyone",
+        "text": "吉祥寺駅の男性用トイレ、やばいことなってるんやが https://t.co/NVG8XSL5oA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "od/电子游戏/阴暗比/爱人TV幸存者/消极自由/touhou/",
+        "id": "1775846129243942912",
+        "location": "西京",
+        "name": "yalai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998378370934206464/0z96ZbHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 70,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 132
+        },
+        "username": "yelai431420",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T10:28:25.000Z",
+        "description": "ネットの面白ツイートまとめ",
+        "id": "1733433351485390848",
+        "name": "話題の面白ツイート図鑑",
+        "pinned_tweet_id": "1895785075838714144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994423272788918272/VgJxkyg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33478,
+          "following_count": 4,
+          "like_count": 148,
+          "listed_count": 37,
+          "media_count": 299,
+          "tweet_count": 429
+        },
+        "username": "yutaka_bot2",
+        "verified": false
+      }
+    ]
+  }
+}
