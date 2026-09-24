@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2097739510461157755",
+    "created_at": "2026-09-10T05:00:22.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T06:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097913048363401336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2076667930197041153",
+          "start": 0,
+          "username": "Ak2r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097913048363401336",
+    "in_reply_to_user_id": "2076667930197041153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097910893807865960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak2r4i 狗狗喜欢黏着人（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2097739510461157755",
+        "created_at": "2026-09-10T05:00:22.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097913048363401336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2076667930197041153",
+              "start": 0,
+              "username": "Ak2r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097913048363401336",
+        "in_reply_to_user_id": "2076667930197041153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097910893807865960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak2r4i 狗狗喜欢黏着人（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076667930197041153",
+        "conversation_id": "2097739510461157755",
+        "created_at": "2026-09-10T04:51:49.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097910893807865960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775846129243942912",
+              "start": 0,
+              "username": "yelai431420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097910893807865960",
+        "in_reply_to_user_id": "1775846129243942912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097750239906246676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yelai431420 狗狗？？啊啊？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊💉🩸/略人机构幸存者/理性崩塌/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2097913048363401336",
+        "name": "yella Iwase～",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 340,
+          "like_count": 3978,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T14:03:13.000Z",
+        "description": "💊🔪❤️無性戀焦慮抑鬱希死念慮\n提供小零食小糖果相關幫助 私訊 https://t.co/XoJPUiUOLn\n隨機掉落免費小禮物( ੭•͈ω•͈)੭๐♡.๐ \n前世@Ak1r4i 🥺😭嗚嗚嗚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "Ak1r4i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Ak1r4i",
+                "end": 55,
+                "expanded_url": "http://t.me/Ak1r4i",
+                "start": 32,
+                "url": "https://t.co/XoJPUiUOLn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/bJoLlBAwl9"
+              }
+            ]
+          }
+        },
+        "id": "2076667930197041153",
+        "is_identity_verified": false,
+        "location": "夢",
+        "most_recent_tweet_id": "2097910893807865960",
+        "name": "心星",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076667930197041153/1787755265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092122886660345856/5hCtC3hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 183,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/bJoLlBAwl9",
+        "username": "Ak2r4i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

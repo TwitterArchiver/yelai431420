@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098847578637148160"
+      ],
+      "media_source_tweet_id": [
+        "2098847584244969565"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "conversation_id": "2099003967959413123",
+    "created_at": "2026-09-13T05:15:18.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T06:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099003967959413123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063809217488982016",
+          "start": 3,
+          "username": "Nijika_Dark2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ooHbN0pUaG",
+          "end": 118,
+          "expanded_url": "https://x.com/Nijika_Dark2/status/2098847584244969565/photo/1",
+          "media_key": "3_2098847578637148160",
+          "start": 95,
+          "url": "https://t.co/ooHbN0pUaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099003967959413123",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098847578637148160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098847584244969565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nijika_Dark2: 这个帖子下面有不少其生前的瓜条，还望阅读到的朋友们多多点赞增加曝光，让圈内不熟悉他的人看清他的真面目\n是非必有定论，公道自在人心\n而回首往事，他只想日批 https://t.co/ooHbN0pUaG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2098847578637148160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCawKpbIAAh7qG.jpg",
+        "width": 558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098847578637148160"
+          ],
+          "media_source_tweet_id": [
+            "2098847584244969565"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2099003967959413123",
+        "created_at": "2026-09-13T05:15:18.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099003967959413123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063809217488982016",
+              "start": 3,
+              "username": "Nijika_Dark2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooHbN0pUaG",
+              "end": 118,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2098847584244969565/photo/1",
+              "media_key": "3_2098847578637148160",
+              "start": 95,
+              "url": "https://t.co/ooHbN0pUaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099003967959413123",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098847578637148160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098847584244969565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nijika_Dark2: 这个帖子下面有不少其生前的瓜条，还望阅读到的朋友们多多点赞增加曝光，让圈内不熟悉他的人看清他的真面目\n是非必有定论，公道自在人心\n而回首往事，他只想日批 https://t.co/ooHbN0pUaG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098847578637148160"
+          ]
+        },
+        "author_id": "2063809217488982016",
+        "conversation_id": "2098847584244969565",
+        "created_at": "2026-09-12T18:53:53.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098847584244969565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooHbN0pUaG",
+              "end": 100,
+              "expanded_url": "https://x.com/Nijika_Dark2/status/2098847584244969565/photo/1",
+              "media_key": "3_2098847578637148160",
+              "start": 77,
+              "url": "https://t.co/ooHbN0pUaG"
+            },
+            {
+              "display_url": "x.com/Nijika_Dark2/s…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/Nijika_Dark2/status/2098825311614095838",
+              "start": 101,
+              "url": "https://t.co/dJsGKIIm0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098847584244969565",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098847578637148160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 702,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098825311614095838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个帖子下面有不少其生前的瓜条，还望阅读到的朋友们多多点赞增加曝光，让圈内不熟悉他的人看清他的真面目\n是非必有定论，公道自在人心\n而回首往事，他只想日批 https://t.co/ooHbN0pUaG https://t.co/dJsGKIIm0E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊💉🩸/略人机构幸存者/理性崩塌/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2099003967959413123",
+        "name": "yella Iwase～",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 346,
+          "like_count": 4018,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2098978548027699425",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 210,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

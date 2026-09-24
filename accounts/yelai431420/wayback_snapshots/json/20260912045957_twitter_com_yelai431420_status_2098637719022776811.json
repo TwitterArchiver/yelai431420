@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2098542766737514612",
+    "created_at": "2026-09-12T04:59:57.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098637719022776811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032059814348754944",
+          "start": 0,
+          "username": "KrvyScorpii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098637719022776811",
+    "in_reply_to_user_id": "2032059814348754944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098542766737514612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrvyScorpii 毒虫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2098542766737514612",
+        "created_at": "2026-09-12T04:59:57.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098637719022776811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032059814348754944",
+              "start": 0,
+              "username": "KrvyScorpii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098637719022776811",
+        "in_reply_to_user_id": "2032059814348754944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098542766737514612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrvyScorpii 毒虫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032059814348754944",
+        "conversation_id": "2098542766737514612",
+        "created_at": "2026-09-11T22:42:39.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T23:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098542766737514612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KrvyScorpii/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/KrvyScorpii/status/2098542373014036679",
+              "start": 27,
+              "url": "https://t.co/zMETvgF0LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098542766737514612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098542373014036679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味歌词，我没想表达这个啊，我只是在第一辆车上而已 https://t.co/zMETvgF0LK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊💉🩸/略人机构幸存者/理性崩塌/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2098637719022776811",
+        "name": "yella Iwase～",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 345,
+          "like_count": 4013,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "",
+        "id": "2032059814348754944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098620827151577251",
+        "name": "Krvy",
+        "pinned_tweet_id": "2085769722772193310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032059814348754944/1787028194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089573810303574016/rCiFRw-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 81,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

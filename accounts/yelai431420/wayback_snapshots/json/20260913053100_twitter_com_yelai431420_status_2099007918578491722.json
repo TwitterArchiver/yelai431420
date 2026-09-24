@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2098825311614095838",
+    "created_at": "2026-09-13T05:31:00.000Z",
+    "display_text_range": [
+      14,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T06:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099007918578491722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063809217488982016",
+          "start": 0,
+          "username": "Nijika_Dark2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099007918578491722",
+    "in_reply_to_user_id": "2063809217488982016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098825311614095838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_Dark2 母亲月薪两千爹妈离婚和母亲相依为命果然就是为了卖药博同情编的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2098825311614095838",
+        "created_at": "2026-09-13T05:31:00.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099007918578491722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063809217488982016",
+              "start": 0,
+              "username": "Nijika_Dark2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099007918578491722",
+        "in_reply_to_user_id": "2063809217488982016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098825311614095838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark2 母亲月薪两千爹妈离婚和母亲相依为命果然就是为了卖药博同情编的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2098825311614095838",
+        "created_at": "2026-09-12T17:25:23.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098825311614095838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2098806885961060724",
+              "start": 138,
+              "url": "https://t.co/Rilu3wCYHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098825311614095838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3961,
+          "like_count": 57,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098806885961060724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧望周知\n是这样的，乞丐卖惨起码还p个假病历呢，网上真是动动嘴皮就有不少人信\n从之前她可是有金主包养的，后来在金主家戈了喉紫砂，金主报了急诊以后就是他家里人来接管，icu＋开喉插管＋肺部感染，当时在西安唐都医院一套下来的医药费显然不是其所述“母亲月薪两千月光族”能负担起的 https://t.co/Rilu3wCYHv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊💉🩸/略人机构幸存者/理性崩塌/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2099007918578491722",
+        "name": "yella Iwase～",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 346,
+          "like_count": 4024,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2098978548027699425",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 210,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
