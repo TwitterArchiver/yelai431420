@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-27T09:22:44",
+  "last_updated": "2026-09-27T09:23:01",
   "html": {
     "https://web.archive.org/web/20250802024733if_/https://twitter.com/yelai431420/status/1951474925526720933": {
       "status": "done",
@@ -6230,9 +6230,9 @@
       "referenced_by": [
         "20260618234716_twitter_com_yelai431420_status_2067756061701156882.json"
       ],
-      "last_updated": "2026-09-10T14:20:51",
+      "last_updated": "2026-09-27T09:23:00",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260618234716/https://video.twimg.com/ext_tw_video/2067621964949454848/pu/vid/avc1/960x720/5-xAOQwb3kp6U9-_.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2068852780216008704/pu/vid/avc1/720x866/BJh32CnC504Ed_b0.mp4?tag=12": {
       "status": "done",
@@ -6260,9 +6260,9 @@
       "referenced_by": [
         "20260803171253_twitter_com_yelai431420_status_2084326651547303944.json"
       ],
-      "last_updated": "2026-09-10T14:20:49",
+      "last_updated": "2026-09-27T09:23:01",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260803171253/https://video.twimg.com/amplify_video/2084275229912891392/vid/avc1/1564x720/yYhD_Doxy64oZAAa.mp4?tag=14",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2091489238558593025/vid/avc1/640x360/1EOLSaUmKDm0ZGHJ.mp4": {
       "status": "done",
