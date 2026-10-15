@@ -1,11 +1,20 @@
 {
   "name": "yella Iwase～",
   "username": "@yelai431420",
-  "bio": "/💊💉🩸/略人机构幸存者/理性崩塌/",
+  "bio": "/💊💉🩸/略人机构幸存者/理性崩塌/ 宝宝:@expcat1010",
   "location": "Please just have laugh withme",
   "link": "https://t.me/yalailinlin",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2101976004919197885",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 33,
+        "start": 22,
+        "username": "expcat1010"
+      }
+    ]
+  }
 }
