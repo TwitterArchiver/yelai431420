@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2105758058672755169",
+    "created_at": "2026-10-01T20:33:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T21:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105758058672755169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2076667930197041153",
+          "start": 3,
+          "username": "Ak2r4i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "Chemrev.org",
+          "end": 38,
+          "expanded_url": "https://Chemrev.org",
+          "start": 15,
+          "status": 200,
+          "unwound_url": "https://Chemrev.org",
+          "url": "https://t.co/rdXzUhyY9Z"
+        },
+        {
+          "description": "本站不所属或被所属于che mlogix.ca, \"原料革命 \", \"原料革命宣传部 \"，以及其他公司、组织、团体。 与包括但不限于恶俗维基/恶俗狗维基的esu团体有关（affiliated）或自称有关者，不得在本站成为商家、或加入本站运营组。 本站不设置telegram频道/群组，所有telegram频道/群组均为仿冒。 以自己或同居人、同事、同课题组成员生成的邀请码注册的，不得加入本站。",
+          "display_url": "Chemlogix.org",
+          "end": 93,
+          "expanded_url": "https://Chemlogix.org",
+          "start": 70,
+          "status": 200,
+          "title": "登录 · ChemLogix",
+          "unwound_url": "https://chemlogix.org/index.php?r=login",
+          "url": "https://t.co/fVVFo8s6kh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105758058672755169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105696145850962417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak2r4i: ❤️ https://t.co/rdXzUhyY9Z  低價原粉直購 價格實惠會員有優惠 藥商可以來合作 ✨\n❤️ https://t.co/fVVFo8s6kh  低價零售各類小藥丸 感興趣可以來問我要邀請碼喔 ✨\n推特可能不常看呢 所以來DM我的TG…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2105758058672755169",
+        "created_at": "2026-10-01T20:33:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T21:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105758058672755169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2076667930197041153",
+              "start": 3,
+              "username": "Ak2r4i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "Chemrev.org",
+              "end": 38,
+              "expanded_url": "https://Chemrev.org",
+              "start": 15,
+              "status": 200,
+              "unwound_url": "https://Chemrev.org",
+              "url": "https://t.co/rdXzUhyY9Z"
+            },
+            {
+              "description": "本站不所属或被所属于che mlogix.ca, \"原料革命 \", \"原料革命宣传部 \"，以及其他公司、组织、团体。 与包括但不限于恶俗维基/恶俗狗维基的esu团体有关（affiliated）或自称有关者，不得在本站成为商家、或加入本站运营组。 本站不设置telegram频道/群组，所有telegram频道/群组均为仿冒。 以自己或同居人、同事、同课题组成员生成的邀请码注册的，不得加入本站。",
+              "display_url": "Chemlogix.org",
+              "end": 93,
+              "expanded_url": "https://Chemlogix.org",
+              "start": 70,
+              "status": 200,
+              "title": "登录 · ChemLogix",
+              "unwound_url": "https://chemlogix.org/index.php?r=login",
+              "url": "https://t.co/fVVFo8s6kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105758058672755169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105696145850962417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak2r4i: ❤️ https://t.co/rdXzUhyY9Z  低價原粉直購 價格實惠會員有優惠 藥商可以來合作 ✨\n❤️ https://t.co/fVVFo8s6kh  低價零售各類小藥丸 感興趣可以來問我要邀請碼喔 ✨\n推特可能不常看呢 所以來DM我的TG…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076667930197041153",
+        "conversation_id": "2105696145850962417",
+        "created_at": "2026-10-01T16:27:37.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105696145850962417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "Chemrev.org",
+              "end": 26,
+              "expanded_url": "https://Chemrev.org",
+              "start": 3,
+              "status": 200,
+              "unwound_url": "https://Chemrev.org",
+              "url": "https://t.co/rdXzUhyY9Z"
+            },
+            {
+              "description": "本站不所属或被所属于che mlogix.ca, \"原料革命 \", \"原料革命宣传部 \"，以及其他公司、组织、团体。 与包括但不限于恶俗维基/恶俗狗维基的esu团体有关（affiliated）或自称有关者，不得在本站成为商家、或加入本站运营组。 本站不设置telegram频道/群组，所有telegram频道/群组均为仿冒。 以自己或同居人、同事、同课题组成员生成的邀请码注册的，不得加入本站。",
+              "display_url": "Chemlogix.org",
+              "end": 81,
+              "expanded_url": "https://Chemlogix.org",
+              "start": 58,
+              "status": 200,
+              "title": "登录 · ChemLogix",
+              "unwound_url": "https://chemlogix.org/index.php?r=login",
+              "url": "https://t.co/fVVFo8s6kh"
+            },
+            {
+              "description": "請跟惺惺玩🥺😇 https://t.me/Ak3r4i",
+              "display_url": "t.me/Ak1r4i",
+              "end": 151,
+              "expanded_url": "https://t.me/Ak1r4i",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2105696148598190082/PI-zKsDh?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105696148598190082/PI-zKsDh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 128,
+              "status": 200,
+              "title": "心星",
+              "unwound_url": "https://t.me/Ak1r4i",
+              "url": "https://t.co/gvNSDE7CWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105696145850962417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "❤️ https://t.co/rdXzUhyY9Z  低價原粉直購 價格實惠會員有優惠 藥商可以來合作 ✨\n❤️ https://t.co/fVVFo8s6kh  低價零售各類小藥丸 感興趣可以來問我要邀請碼喔 ✨\n推特可能不常看呢 所以來DM我的TG https://t.co/gvNSDE7CWP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊💉🩸/略人机构幸存者/理性崩塌/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2105758058672755169",
+        "name": "yella Iwase～",
+        "pinned_tweet_id": "2101976004919197885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 346,
+          "like_count": 4159,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T14:03:13.000Z",
+        "description": "💊🔪❤️無性戀不安抑鬱希死念慮\n提供RC小零食小糖果 請私訊 https://t.co/XoJPUiUgVP\n前世@Ak1r4i 🥺😭嗚嗚嗚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 57,
+                "username": "Ak1r4i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Ak1r4i",
+                "end": 54,
+                "expanded_url": "http://t.me/Ak1r4i",
+                "start": 31,
+                "url": "https://t.co/XoJPUiUgVP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/bJoLlBzYvB"
+              }
+            ]
+          }
+        },
+        "id": "2076667930197041153",
+        "is_identity_verified": false,
+        "location": "夢",
+        "most_recent_tweet_id": "2105696145850962417",
+        "name": "心星",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076667930197041153/1787755265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092122886660345856/5hCtC3hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 194,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/bJoLlBzYvB",
+        "username": "Ak2r4i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

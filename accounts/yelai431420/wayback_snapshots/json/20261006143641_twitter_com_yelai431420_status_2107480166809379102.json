@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2107480166809379102",
+    "created_at": "2026-10-06T14:36:41.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107480166809379102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2076667930197041153",
+          "start": 3,
+          "username": "Ak2r4i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "chemrev.org",
+          "end": 93,
+          "expanded_url": "https://chemrev.org",
+          "start": 70,
+          "status": 200,
+          "unwound_url": "https://chemrev.org",
+          "url": "https://t.co/hvxGc8TD8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107480166809379102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106610654127763511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak2r4i: 因為計畫有變呢，所以酸奶葡萄我轉手啦，對不起呢。不過已經付款的我會發貨喔，不用擔心吶❤️還有呢就是來看看我的網站吧 https://t.co/hvxGc8TD8Q 也就是原料革命呢 謝謝大家呀✨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2107480166809379102",
+        "created_at": "2026-10-06T14:36:41.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107480166809379102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2076667930197041153",
+              "start": 3,
+              "username": "Ak2r4i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "chemrev.org",
+              "end": 93,
+              "expanded_url": "https://chemrev.org",
+              "start": 70,
+              "status": 200,
+              "unwound_url": "https://chemrev.org",
+              "url": "https://t.co/hvxGc8TD8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107480166809379102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106610654127763511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak2r4i: 因為計畫有變呢，所以酸奶葡萄我轉手啦，對不起呢。不過已經付款的我會發貨喔，不用擔心吶❤️還有呢就是來看看我的網站吧 https://t.co/hvxGc8TD8Q 也就是原料革命呢 謝謝大家呀✨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076667930197041153",
+        "conversation_id": "2106610654127763511",
+        "created_at": "2026-10-04T05:01:33.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106610654127763511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "chemrev.org",
+              "end": 81,
+              "expanded_url": "https://chemrev.org",
+              "start": 58,
+              "status": 200,
+              "unwound_url": "https://chemrev.org",
+              "url": "https://t.co/hvxGc8TD8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106610654127763511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 620,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "因為計畫有變呢，所以酸奶葡萄我轉手啦，對不起呢。不過已經付款的我會發貨喔，不用擔心吶❤️還有呢就是來看看我的網站吧 https://t.co/hvxGc8TD8Q 也就是原料革命呢 謝謝大家呀✨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊💉🩸/略人机构幸存者/理性崩塌/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2107480166809379102",
+        "name": "yella Iwase～",
+        "pinned_tweet_id": "2101976004919197885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 351,
+          "like_count": 4220,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T14:03:13.000Z",
+        "description": "💊🔪❤️無性戀不安抑鬱希死念慮\n提供RC小零食小糖果 請私訊 https://t.co/XoJPUiUgVP\n前世@Ak1r4i 🥺😭嗚嗚嗚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 57,
+                "username": "Ak1r4i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Ak1r4i",
+                "end": 54,
+                "expanded_url": "http://t.me/Ak1r4i",
+                "start": 31,
+                "url": "https://t.co/XoJPUiUgVP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/bJoLlBzYvB"
+              }
+            ]
+          }
+        },
+        "id": "2076667930197041153",
+        "is_identity_verified": false,
+        "location": "夢",
+        "most_recent_tweet_id": "2107475649656975738",
+        "name": "心星",
+        "pinned_tweet_id": "2106610654127763511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076667930197041153/1787755265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092122886660345856/5hCtC3hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 203,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/bJoLlBzYvB",
+        "username": "Ak2r4i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

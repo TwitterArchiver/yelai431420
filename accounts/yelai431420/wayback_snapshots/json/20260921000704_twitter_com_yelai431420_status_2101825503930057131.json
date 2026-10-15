@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101825483210166272"
+      ]
+    },
+    "author_id": "1775846129243942912",
+    "conversation_id": "2101825503930057131",
+    "created_at": "2026-09-21T00:07:04.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T01:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101825503930057131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "分析你的 X 互动圈，找出最活跃的互动用户",
+          "display_url": "circle.catsuki.cc/zh/circle/p48b…",
+          "end": 37,
+          "expanded_url": "https://circle.catsuki.cc/zh/circle/p48bv5ov",
+          "start": 14,
+          "status": 200,
+          "title": "X 互动圈生成器 — NekoCircle",
+          "unwound_url": "https://circle.catsuki.cc/zh/circle/p48bv5ov",
+          "url": "https://t.co/YT6JoBIlSu"
+        },
+        {
+          "display_url": "pic.x.com/Zlrhq7PoEk",
+          "end": 79,
+          "expanded_url": "https://x.com/yelai431420/status/2101825503930057131/photo/1",
+          "media_key": "3_2101825483210166272",
+          "start": 56,
+          "url": "https://t.co/Zlrhq7PoEk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101825503930057131",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101825483210166272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的推特圈!\n快速寻找自己 https://t.co/YT6JoBIlSu\n使用 NekoCircle 创建! https://t.co/Zlrhq7PoEk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2101825483210166272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSsvJBqbEAA9AQk.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101825483210166272"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2101825503930057131",
+        "created_at": "2026-09-21T00:07:04.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101825503930057131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "分析你的 X 互动圈，找出最活跃的互动用户",
+              "display_url": "circle.catsuki.cc/zh/circle/p48b…",
+              "end": 37,
+              "expanded_url": "https://circle.catsuki.cc/zh/circle/p48bv5ov",
+              "start": 14,
+              "status": 200,
+              "title": "X 互动圈生成器 — NekoCircle",
+              "unwound_url": "https://circle.catsuki.cc/zh/circle/p48bv5ov",
+              "url": "https://t.co/YT6JoBIlSu"
+            },
+            {
+              "display_url": "pic.x.com/Zlrhq7PoEk",
+              "end": 79,
+              "expanded_url": "https://x.com/yelai431420/status/2101825503930057131/photo/1",
+              "media_key": "3_2101825483210166272",
+              "start": 56,
+              "url": "https://t.co/Zlrhq7PoEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101825503930057131",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101825483210166272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特圈!\n快速寻找自己 https://t.co/YT6JoBIlSu\n使用 NekoCircle 创建! https://t.co/Zlrhq7PoEk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊💉🩸/略人机构幸存者/理性崩塌/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2101825503930057131",
+        "name": "yella Iwase～",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 346,
+          "like_count": 4083,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

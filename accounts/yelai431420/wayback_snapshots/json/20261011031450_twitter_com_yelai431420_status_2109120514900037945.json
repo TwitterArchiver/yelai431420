@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1775846129243942912",
+    "conversation_id": "2109107501992136882",
+    "created_at": "2026-10-11T03:14:50.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T04:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109120514900037945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1624480657929043968",
+          "start": 0,
+          "username": "shirokanearashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109120514900037945",
+    "in_reply_to_user_id": "1624480657929043968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109120050364141607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirokanearashi 稻草人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2109107501992136882",
+        "created_at": "2026-10-11T03:14:50.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109120514900037945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1624480657929043968",
+              "start": 0,
+              "username": "shirokanearashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109120514900037945",
+        "in_reply_to_user_id": "1624480657929043968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109120050364141607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirokanearashi 稻草人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624480657929043968",
+        "conversation_id": "2109107501992136882",
+        "created_at": "2026-10-11T03:13:00.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109120050364141607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775846129243942912",
+              "start": 0,
+              "username": "yelai431420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109120050364141607",
+        "in_reply_to_user_id": "1775846129243942912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109107501992136882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yelai431420 那么真实的自己是不是人呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊💉🩸/略人机构幸存者/理性崩塌/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2109120514900037945",
+        "name": "yella Iwase～",
+        "pinned_tweet_id": "2101976004919197885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 363,
+          "like_count": 4269,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T18:49:21.000Z",
+        "description": "LUCA的附庸\n非二元\n我是疯了的人类，人类是疯了的动物",
+        "id": "1624480657929043968",
+        "is_identity_verified": false,
+        "location": "桶子与盒子之间",
+        "most_recent_tweet_id": "2109120494024974497",
+        "name": "白金岚🏴‍☠️#箕宿三",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624480657929043968/1772989045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107423836832722944/QVoKcPoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 422,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 318
+        },
+        "url": "",
+        "username": "shirokanearashi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
